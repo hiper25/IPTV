@@ -25,110 +25,6 @@
   <display-name>澳視澳門</display-name>
   <display-name>91</display-name>
 </channel>
-<programme start="20260629020000 +0800" stop="20260629024000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">葡語新聞</title>
-  <title lang="eng">Telejornal</title>
-</programme>
-<programme start="20260629024000 +0800" stop="20260629031000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">澳門歷史人物</title>
-  <title lang="eng">Aqui Há História</title>
-</programme>
-<programme start="20260629031000 +0800" stop="20260629034000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">無名的愛</title>
-  <title lang="eng">Nameless Love</title>
-</programme>
-<programme start="20260629034000 +0800" stop="20260629040000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">靈感大灣區</title>
-  <title lang="eng">Grande Baía da Inspiração: O Estudo de um Sinólogo Francês no Sul da China</title>
-</programme>
-<programme start="20260629040000 +0800" stop="20260629041000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">世遺City Walk</title>
-  <title lang="eng">Macao World Heritage &quot;City Walk&quot;</title>
-</programme>
-<programme start="20260629041000 +0800" stop="20260629044000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">海龜去哪兒</title>
-  <title lang="eng">Onde Estão as Tartarugas Marinhas?</title>
-</programme>
-<programme start="20260629044000 +0800" stop="20260629052000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">葡語新聞</title>
-  <title lang="eng">Telejornal</title>
-</programme>
-<programme start="20260629052000 +0800" stop="20260629055000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">唐‧西豐味</title>
-  <title lang="eng">Chinese ‧Western Pastries</title>
-</programme>
-<programme start="20260629055000 +0800" stop="20260629060000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">好書分享</title>
-  <title lang="eng">Livros Com João Guedes</title>
-</programme>
-<programme start="20260629060000 +0800" stop="20260629065200 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">朝聖花地瑪</title>
-  <title lang="eng">The Pilgrims of Fátima</title>
-</programme>
-<programme start="20260629065200 +0800" stop="20260629070000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">家家有餸煮</title>
-  <title lang="eng">Home Cooking</title>
-</programme>
-<programme start="20260629070000 +0800" stop="20260629073000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">咁, 得唔得㗎?</title>
-  <title lang="eng">Are You Serious?</title>
-</programme>
-<programme start="20260629073000 +0800" stop="20260629080000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">英語新聞</title>
-  <title lang="eng">TDM News</title>
-</programme>
-<programme start="20260629080000 +0800" stop="20260629083000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">無名的愛</title>
-  <title lang="eng">Nameless Love</title>
-</programme>
-<programme start="20260629083000 +0800" stop="20260629085500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">澳門人澳門事</title>
-  <title lang="eng">Our People, Our Life</title>
-</programme>
-<programme start="20260629085500 +0800" stop="20260629092000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">家家有本事</title>
-  <title lang="eng">Family Affairs</title>
-</programme>
-<programme start="20260629092000 +0800" stop="20260629100000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">中國城市動態</title>
-  <title lang="eng">City News Net of China</title>
-</programme>
-<programme start="20260629100000 +0800" stop="20260629103000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">粵語新聞</title>
-  <title lang="eng">TDM Morning News</title>
-</programme>
-<programme start="20260629103000 +0800" stop="20260629105000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">靈感大灣區</title>
-  <title lang="eng">Grande Baía da Inspiração: O Estudo de um Sinólogo Francês no Sul da China</title>
-</programme>
-<programme start="20260629105000 +0800" stop="20260629112000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">海龜去哪兒</title>
-  <title lang="eng">Onde Estão as Tartarugas Marinhas?</title>
-</programme>
-<programme start="20260629112000 +0800" stop="20260629115000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">唐‧西豐味</title>
-  <title lang="eng">Chinese ‧Western Pastries</title>
-</programme>
-<programme start="20260629115000 +0800" stop="20260629122000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">無名的愛</title>
-  <title lang="eng">Nameless Love</title>
-</programme>
-<programme start="20260629122000 +0800" stop="20260629130000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">中國城市動態</title>
-  <title lang="eng">City News Net of China</title>
-</programme>
-<programme start="20260629130000 +0800" stop="20260629133000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">咁, 得唔得㗎?</title>
-  <title lang="eng">Are You Serious?</title>
-</programme>
-<programme start="20260629133000 +0800" stop="20260629135200 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">澳門人澳門事</title>
-  <title lang="eng">Our People, Our Life</title>
-</programme>
-<programme start="20260629135200 +0800" stop="20260629140000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">世遺City Walk</title>
-  <title lang="eng">Macao World Heritage &quot;City Walk&quot;</title>
-</programme>
 <programme start="20260629140000 +0800" stop="20260629143000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
   <title lang="chi">粵語新聞</title>
   <title lang="eng">TDM Morning News</title>
@@ -1101,11 +997,11 @@
   <title lang="chi">馬交遊﹕澳門Chill 好玩</title>
   <title lang="eng">Macau. Chill. Viva.</title>
 </programme>
-<programme start="20260704132000 +0800" stop="20260704135000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+<programme start="20260704132000 +0800" stop="20260704134500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
   <title lang="chi">教煮CHILL 好玩</title>
   <title lang="eng">Cooking ‧ Chill ‧ Viva</title>
 </programme>
-<programme start="20260704135000 +0800" stop="20260704140000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+<programme start="20260704134500 +0800" stop="20260704140000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
   <title lang="chi">時局綜觀-英文字幕版</title>
   <title lang="eng">Overview of the current affairs (Cantonese W/English subtitles version)</title>
 </programme>
@@ -1149,15 +1045,15 @@
   <title lang="chi">江河與共</title>
   <title lang="eng">Conserving the Yangtze River Ecosystem</title>
 </programme>
-<programme start="20260704183000 +0800" stop="20260704185000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+<programme start="20260704183000 +0800" stop="20260704185500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
   <title lang="chi">澳門早晨精華錄</title>
   <title lang="eng">Repeat of Good Morning Macau</title>
 </programme>
-<programme start="20260704185000 +0800" stop="20260704190000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+<programme start="20260704185500 +0800" stop="20260704190500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
   <title lang="chi">時局綜觀-英文字幕版</title>
   <title lang="eng">Overview of the current affairs (Cantonese W/English subtitles version)</title>
 </programme>
-<programme start="20260704190000 +0800" stop="20260704193000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+<programme start="20260704190500 +0800" stop="20260704193000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
   <title lang="chi">教煮CHILL 好玩</title>
   <title lang="eng">Cooking ‧ Chill ‧ Viva</title>
 </programme>
@@ -1392,86 +1288,6 @@
 <programme start="20260705234000 +0800" stop="20260706000200 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
   <title lang="chi">家家有本事</title>
   <title lang="eng">Family Affairs</title>
-</programme>
-<programme start="20260629000100 +0800" stop="20260629100000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">收台</title>
-  <title lang="eng">Close</title>
-</programme>
-<programme start="20260629100000 +0800" stop="20260629130200 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">好劇連場: 乘風踏浪</title>
-  <title lang="eng">The Swimsuit Saga</title>
-</programme>
-<programme start="20260629130200 +0800" stop="20260629135000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">好劇連場: 了不起的女孩</title>
-  <title lang="eng">Dear Missy</title>
-</programme>
-<programme start="20260629135000 +0800" stop="20260629160500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">好劇連場: 偽鈔者之末路</title>
-  <title lang="eng">No Way For Stumer</title>
-</programme>
-<programme start="20260629160500 +0800" stop="20260629172900 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">星光大道</title>
-  <title lang="eng">Xing Guang Da Dao</title>
-</programme>
-<programme start="20260629172900 +0800" stop="20260629173000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">重點節目宣傳片</title>
-  <title lang="eng">Promotion</title>
-</programme>
-<programme start="20260629173000 +0800" stop="20260629175000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">澳門早晨精華錄</title>
-  <title lang="eng">Repeat of Good Morning Macau</title>
-</programme>
-<programme start="20260629175000 +0800" stop="20260629175800 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">國寶時刻</title>
-  <title lang="eng">Shining Treasures of China</title>
-</programme>
-<programme start="20260629175800 +0800" stop="20260629180000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">TDM 新視點</title>
-  <title lang="eng">TDM Focus</title>
-</programme>
-<programme start="20260629180000 +0800" stop="20260629182500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">航天雙子星</title>
-  <title lang="eng">Kid Astronauts</title>
-</programme>
-<programme start="20260629182500 +0800" stop="20260629182600 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">星星的故鄉---天台山廣告</title>
-  <title lang="eng">Hometown of Stars</title>
-</programme>
-<programme start="20260629182600 +0800" stop="20260629191200 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">星星的故鄉</title>
-  <title lang="eng">Hometown of Stars</title>
-</programme>
-<programme start="20260629191200 +0800" stop="20260629191300 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">星星的故鄉---天台山廣告</title>
-  <title lang="eng">Hometown of Stars</title>
-</programme>
-<programme start="20260629191300 +0800" stop="20260629200000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">星星的故鄉</title>
-  <title lang="eng">Hometown of Stars</title>
-</programme>
-<programme start="20260629200000 +0800" stop="20260629203000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">戀戀泰蘭德</title>
-  <title lang="eng">Beautiful Thailand</title>
-</programme>
-<programme start="20260629203000 +0800" stop="20260629211000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">去桃花盛開的地方2</title>
-  <title lang="eng">Finding Home in Blossoms 2</title>
-</programme>
-<programme start="20260629211000 +0800" stop="20260629212000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">虹翼行動</title>
-  <title lang="eng">Candy-coated Deal</title>
-</programme>
-<programme start="20260629212000 +0800" stop="20260629213500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">江河與共</title>
-  <title lang="eng">Conserving the Yangtze River Ecosystem</title>
-</programme>
-<programme start="20260629213500 +0800" stop="20260629231000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">深潛</title>
-  <title lang="eng">Deep Lurk</title>
-</programme>
-<programme start="20260629231000 +0800" stop="20260630000100 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">戰士的道路</title>
-  <title lang="eng">Warrior&apos;s way</title>
 </programme>
 <programme start="20260630000100 +0800" stop="20260630100000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">收台</title>
@@ -1857,81 +1673,81 @@
   <title lang="chi">收台</title>
   <title lang="eng">Close</title>
 </programme>
-<programme start="20260629020000 +0800" stop="20260629070000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">收台</title>
-  <title lang="eng">Close</title>
+<programme start="20260706100000 +0800" stop="20260706130300 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">好劇連場: 乘風踏浪</title>
+  <title lang="eng">The Swimsuit Saga</title>
 </programme>
-<programme start="20260629070000 +0800" stop="20260629080000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">早晨新聞</title>
-  <title lang="eng">TDM Morning News</title>
+<programme start="20260706130300 +0800" stop="20260706155600 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">好劇連場: 金色大道</title>
+  <title lang="eng">All That Glitters</title>
 </programme>
-<programme start="20260629080000 +0800" stop="20260629090000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">澳門早晨</title>
-  <title lang="eng">Good Morning Macau</title>
+<programme start="20260706155600 +0800" stop="20260706160600 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">世遺City Walk</title>
+  <title lang="eng">Macao World Heritage &quot;City Walk&quot;</title>
 </programme>
-<programme start="20260629090000 +0800" stop="20260629093000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">重播早晨新聞</title>
-  <title lang="eng">TDM Morning News (Repeat)</title>
+<programme start="20260706160600 +0800" stop="20260706172900 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">星光大道</title>
+  <title lang="eng">Xing Guang Da Dao</title>
 </programme>
-<programme start="20260629093000 +0800" stop="20260629100000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">灣區全媒睇</title>
-  <title lang="eng">All About the Greater Bay Area</title>
+<programme start="20260706172900 +0800" stop="20260706173000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">重點節目宣傳片</title>
+  <title lang="eng">Promotion</title>
 </programme>
-<programme start="20260629100000 +0800" stop="20260629103000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
+<programme start="20260706173000 +0800" stop="20260706175000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">澳門早晨精華錄</title>
+  <title lang="eng">Repeat of Good Morning Macau</title>
 </programme>
-<programme start="20260629103000 +0800" stop="20260629110000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260629110000 +0800" stop="20260629111200 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260629111200 +0800" stop="20260629112000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">中國軟實力</title>
-  <title lang="eng">China Soft Power</title>
-</programme>
-<programme start="20260629112000 +0800" stop="20260629120000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">中國城市動態</title>
-  <title lang="eng">City News Net of China</title>
-</programme>
-<programme start="20260629120000 +0800" stop="20260629122000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260629122000 +0800" stop="20260629122700 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">中國軟實力</title>
-  <title lang="eng">China Soft Power</title>
-</programme>
-<programme start="20260629122700 +0800" stop="20260629123000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">街市情報</title>
-  <title lang="eng">Food Price Update</title>
-</programme>
-<programme start="20260629123000 +0800" stop="20260629125000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260629125000 +0800" stop="20260629130000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+<programme start="20260706175000 +0800" stop="20260706175800 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">國寶時刻</title>
   <title lang="eng">Shining Treasures of China</title>
 </programme>
-<programme start="20260629130000 +0800" stop="20260629131700 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
+<programme start="20260706175800 +0800" stop="20260706180000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">TDM 新視點</title>
+  <title lang="eng">TDM Focus</title>
 </programme>
-<programme start="20260629131700 +0800" stop="20260629132400 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">中國軟實力</title>
-  <title lang="eng">China Soft Power</title>
+<programme start="20260706180000 +0800" stop="20260706182500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">航天雙子星</title>
+  <title lang="eng">Kid Astronauts</title>
 </programme>
-<programme start="20260629132400 +0800" stop="20260629133000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">午間天氣報告</title>
-  <title lang="eng">Noon Weather Report</title>
+<programme start="20260706182500 +0800" stop="20260706182600 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">星星的故鄉---天台山廣告</title>
+  <title lang="eng">Hometown of Stars</title>
 </programme>
-<programme start="20260629133000 +0800" stop="20260629140000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">午間新聞</title>
-  <title lang="eng">Noon News</title>
+<programme start="20260706182600 +0800" stop="20260706191200 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">星星的故鄉</title>
+  <title lang="eng">Hometown of Stars</title>
+</programme>
+<programme start="20260706191200 +0800" stop="20260706191300 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">星星的故鄉---天台山廣告</title>
+  <title lang="eng">Hometown of Stars</title>
+</programme>
+<programme start="20260706191300 +0800" stop="20260706200000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">星星的故鄉</title>
+  <title lang="eng">Hometown of Stars</title>
+</programme>
+<programme start="20260706200000 +0800" stop="20260706205000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">動物遊蹤</title>
+  <title lang="eng">Safari Flix</title>
+</programme>
+<programme start="20260706205000 +0800" stop="20260706210000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">虹翼行動</title>
+  <title lang="eng">Candy-coated Deal</title>
+</programme>
+<programme start="20260706210000 +0800" stop="20260706213500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">綠色長城</title>
+  <title lang="eng">The Green Great Wall</title>
+</programme>
+<programme start="20260706213500 +0800" stop="20260706231000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">深潛</title>
+  <title lang="eng">Deep Lurk</title>
+</programme>
+<programme start="20260706231000 +0800" stop="20260707000100 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">戰士的道路</title>
+  <title lang="eng">Warrior&apos;s way</title>
+</programme>
+<programme start="20260707000100 +0800" stop="20260707100000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">收台</title>
+  <title lang="eng">Close</title>
 </programme>
 <programme start="20260629140000 +0800" stop="20260629145900 +0800" channel="9177e4866643873ebf4998de0c56431a">
   <title lang="chi">每日財經</title>
@@ -3281,74 +3097,6 @@
   <title lang="chi">收台</title>
   <title lang="eng">Close</title>
 </programme>
-<programme start="20260629025000 +0800" stop="20260629100000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：南非 對 加拿大 - 32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : South Africa vs Canada - Round of 32 (Live)</title>
-</programme>
-<programme start="20260629100000 +0800" stop="20260629104500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2025日本羽毛球公開賽︰混雙4強</title>
-  <title lang="eng">BWF World Tour - Japan Open 2025 : Mixed&apos;s Double - Semi Final</title>
-</programme>
-<programme start="20260629104500 +0800" stop="20260629114500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2025日本羽毛球公開賽︰女單4強</title>
-  <title lang="eng">BWF World Tour - Japan Open 2025 : Women&apos;s Single - Semi Final</title>
-</programme>
-<programme start="20260629114500 +0800" stop="20260629123000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2025日本羽毛球公開賽︰混雙4強</title>
-  <title lang="eng">BWF World Tour - Japan Open 2025 : Mixed&apos;s Double - Semi Final</title>
-</programme>
-<programme start="20260629123000 +0800" stop="20260629130000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2025勒芒盃雜誌︰第五集  銀石站</title>
-  <title lang="eng">2025 Michelin Le Mans Cup Magazine: ep 5. Silverstone</title>
-</programme>
-<programme start="20260629130000 +0800" stop="20260629131500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">體育新聞</title>
-  <title lang="eng">Sport News</title>
-</programme>
-<programme start="20260629131500 +0800" stop="20260629145000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026法國網球公開賽：混雙決賽</title>
-  <title lang="eng">Roland Garros French Open 2026 (Edited Version) : Mixed Double Final</title>
-</programme>
-<programme start="20260629145000 +0800" stop="20260629161500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026法國網球公開賽：女單4強</title>
-  <title lang="eng">Roland Garros French Open 2026 (Edited Version) : Women&apos;s Single Semi-Final</title>
-</programme>
-<programme start="20260629161500 +0800" stop="20260629190000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026湯尤盃羽毛球賽：中國 對 加拿大 - 湯姆斯盃分組賽</title>
-  <title lang="eng">BWF Thomas &amp; Uber Cup 2026 : China  vs  Canada - Group Stage (TC A)</title>
-</programme>
-<programme start="20260629190000 +0800" stop="20260629215000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 FIFA世界盃：南非 對 加拿大 - 32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : South Africa vs Canada - Round of 32</title>
-</programme>
-<programme start="20260629215000 +0800" stop="20260629220000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">體育新聞</title>
-  <title lang="eng">Sport News</title>
-</programme>
-<programme start="20260629220000 +0800" stop="20260629223000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">Goal舉世界盃</title>
-  <title lang="eng">Lift the World Cup</title>
-</programme>
-<programme start="20260629223000 +0800" stop="20260629231000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">環球體育</title>
-  <title lang="eng">Global Sports</title>
-</programme>
-<programme start="20260629231000 +0800" stop="20260629232000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">體育新聞</title>
-  <title lang="eng">Sport News</title>
-</programme>
-<programme start="20260629232000 +0800" stop="20260630005000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">第25屆冬季奧運會：自由式滑雪女子坡面障礙技巧賽</title>
-  <title lang="eng">The 25th Winter Olympic Games (Edited Version)</title>
-</programme>
-<programme start="20260630005000 +0800" stop="20260630040000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：巴西 對 日本 - 32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Brazil vs Japan - Round of 32 (Live)</title>
-</programme>
-<programme start="20260630040000 +0800" stop="20260630042000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">澳門經典車小百科</title>
-  <title lang="eng">The Encyclopedia Of Classic Cars (Edited version)</title>
-</programme>
 <programme start="20260630042000 +0800" stop="20260630063000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">直播2026 FIFA世界盃：德國  對  巴拉圭 - 32強</title>
   <title lang="eng">FIFA World Cup 2026™ : Germany  vs  Paraguay - Round of 32 (Live)</title>
@@ -3438,8 +3186,8 @@
   <title lang="eng">Close</title>
 </programme>
 <programme start="20260701085000 +0800" stop="20260701120000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32 (Live)</title>
+  <title lang="chi">直播2026 FIFA世界盃：墨西哥 對  厄瓜多爾 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Mexico  vs  Ecuador - Round of 32 (Live)</title>
 </programme>
 <programme start="20260701120000 +0800" stop="20260701130000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">2025/2026亞洲勒芒系列賽精華</title>
@@ -3470,8 +3218,8 @@
   <title lang="eng">2026 Michelin Le Mans Cup Magazine : ep1. BARCELONA</title>
 </programme>
 <programme start="20260701190000 +0800" stop="20260701215000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32</title>
+  <title lang="chi">2026 FIFA世界盃：法國  對  瑞典 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : France  vs  Sweden - Round of 32</title>
 </programme>
 <programme start="20260701215000 +0800" stop="20260701220000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">體育新聞</title>
@@ -3494,8 +3242,8 @@
   <title lang="eng">Sport News</title>
 </programme>
 <programme start="20260701235000 +0800" stop="20260702030000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32 (Live)</title>
+  <title lang="chi">直播2026 FIFA世界盃：英格蘭 對  剛果民主共和國 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : England  vs  Congo DR - Round of 32 (Live)</title>
 </programme>
 <programme start="20260702030000 +0800" stop="20260702031500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">澳門經典車小百科</title>
@@ -3506,16 +3254,16 @@
   <title lang="eng">The 25th Winter Olympic Games (Edited Version)</title>
 </programme>
 <programme start="20260702035000 +0800" stop="20260702060000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32 (Live)</title>
+  <title lang="chi">直播2026 FIFA世界盃：比利時 對  塞內加爾 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Belgium  vs  Senegal - Round of 32 (Live)</title>
 </programme>
 <programme start="20260702060000 +0800" stop="20260702075000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">收台</title>
   <title lang="eng">Close</title>
 </programme>
 <programme start="20260702075000 +0800" stop="20260702110000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32 (Live)</title>
+  <title lang="chi">直播2026 FIFA世界盃：美國 對 波斯尼亞 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : USA vs Bosnia-Herzegovina - Round of 32 (Live)</title>
 </programme>
 <programme start="20260702110000 +0800" stop="20260702130000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">2026法國網球公開賽：女單決賽</title>
@@ -3534,8 +3282,8 @@
   <title lang="eng">BWF Thomas &amp; Uber Cup 2026 : Japan vs Turkey- Group Stage (UC C)</title>
 </programme>
 <programme start="20260702190000 +0800" stop="20260702215000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32</title>
+  <title lang="chi">2026 FIFA世界盃：英格蘭 對  剛果民主共和國 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : England  vs  Congo DR - Round of 32</title>
 </programme>
 <programme start="20260702215000 +0800" stop="20260702220000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">體育新聞</title>
@@ -3546,16 +3294,16 @@
   <title lang="eng">Lift the World Cup</title>
 </programme>
 <programme start="20260702223000 +0800" stop="20260702232500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32</title>
+  <title lang="chi">2026 FIFA世界盃：比利時 對  塞內加爾 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Belgium  vs  Senegal - Round of 32</title>
 </programme>
 <programme start="20260702232500 +0800" stop="20260702233000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">體育新聞</title>
   <title lang="eng">Sport News</title>
 </programme>
 <programme start="20260702233000 +0800" stop="20260703013000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32</title>
+  <title lang="chi">2026 FIFA世界盃：比利時 對  塞內加爾 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Belgium  vs  Senegal - Round of 32</title>
 </programme>
 <programme start="20260703013000 +0800" stop="20260703021000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">環球體育</title>
@@ -3566,16 +3314,16 @@
   <title lang="eng">2025 Michelin Le Mans Cup Magazine: ep1. BARCELONA</title>
 </programme>
 <programme start="20260703025000 +0800" stop="20260703050000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32 (Live)</title>
+  <title lang="chi">直播2026 FIFA世界盃：西班牙 對 奧地利 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Spain  vs  Austria  - Round of 32 (Live)</title>
 </programme>
 <programme start="20260703050000 +0800" stop="20260703065000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">收台</title>
   <title lang="eng">Close</title>
 </programme>
 <programme start="20260703065000 +0800" stop="20260703100000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32 (Live)</title>
+  <title lang="chi">直播2026 FIFA世界盃：葡萄牙 對 克羅地亞 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Portugal  vs  Croatia - Round of 32 (Live)</title>
 </programme>
 <programme start="20260703100000 +0800" stop="20260703101500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">澳門經典車小百科</title>
@@ -3586,8 +3334,8 @@
   <title lang="eng">2025 Michelin Le Mans Cup Magazine: ep 2. LE CASTELLET</title>
 </programme>
 <programme start="20260703105000 +0800" stop="20260703140000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32 (Live)</title>
+  <title lang="chi">直播2026 FIFA世界盃：瑞士 對  阿爾及利亞 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Switzerland  vs  Algeria - Round of 32 (Live)</title>
 </programme>
 <programme start="20260703140000 +0800" stop="20260703141500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">體育新聞</title>
@@ -3610,8 +3358,8 @@
   <title lang="eng">BWF World Tour - Japan Open 2025 : Men&apos;s Single - Final</title>
 </programme>
 <programme start="20260703190000 +0800" stop="20260703215000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32</title>
+  <title lang="chi">2026 FIFA世界盃：西班牙 對 奧地利 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Spain  vs  Austria  - Round of 32</title>
 </programme>
 <programme start="20260703215000 +0800" stop="20260703220000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">體育新聞</title>
@@ -3622,24 +3370,24 @@
   <title lang="eng">Lift the World Cup</title>
 </programme>
 <programme start="20260703223000 +0800" stop="20260703232500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32</title>
+  <title lang="chi">2026 FIFA世界盃：葡萄牙 對 克羅地亞 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Portugal  vs  Croatia - Round of 32</title>
 </programme>
 <programme start="20260703232500 +0800" stop="20260703233000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">體育新聞</title>
   <title lang="eng">Sport News</title>
 </programme>
 <programme start="20260703233000 +0800" stop="20260704013000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32</title>
+  <title lang="chi">2026 FIFA世界盃：葡萄牙 對 克羅地亞 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Portugal  vs  Croatia - Round of 32</title>
 </programme>
 <programme start="20260704013000 +0800" stop="20260704015000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">每周體育精華</title>
   <title lang="eng">Sports Weekly Highlight</title>
 </programme>
 <programme start="20260704015000 +0800" stop="20260704050000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32 (Live)</title>
+  <title lang="chi">直播2026 FIFA世界盃：澳洲 對 埃及 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Australia  vs  Egypt - Round of 32 (Live)</title>
 </programme>
 <programme start="20260704050000 +0800" stop="20260704051500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">澳門經典車小百科</title>
@@ -3650,16 +3398,16 @@
   <title lang="eng">2025 Michelin Le Mans Cup Magazine: ep3. LE MANS</title>
 </programme>
 <programme start="20260704055000 +0800" stop="20260704090000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32 (Live)</title>
+  <title lang="chi">直播2026 FIFA世界盃：阿根廷 對 佛得角 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Argentina  vs  Cape Verde - Round of 32 (Live)</title>
 </programme>
 <programme start="20260704090000 +0800" stop="20260704092000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">澳門經典車小百科</title>
   <title lang="eng">The Encyclopedia Of Classic Cars (Edited version)</title>
 </programme>
 <programme start="20260704092000 +0800" stop="20260704123000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">直播2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32 (Live)</title>
+  <title lang="chi">直播2026 FIFA世界盃：哥倫比亞 對 加納 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Colombia  vs  Ghana - Round of 32 (Live)</title>
 </programme>
 <programme start="20260704123000 +0800" stop="20260704124000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">每周體育精華</title>
@@ -3686,8 +3434,8 @@
   <title lang="eng">Global Sports</title>
 </programme>
 <programme start="20260704190000 +0800" stop="20260704215000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 FIFA世界盃：32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Round of 32</title>
+  <title lang="chi">2026 FIFA世界盃：阿根廷 對 佛得角 - 32強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Argentina  vs  Cape Verde - Round of 32</title>
 </programme>
 <programme start="20260704215000 +0800" stop="20260704220000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">體育新聞</title>
@@ -3797,9 +3545,81 @@
   <title lang="chi">收台</title>
   <title lang="eng">Close</title>
 </programme>
-<programme start="20260628233000 +0800" stop="20260629133000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">RTPi Live</title>
-  <title lang="eng">RTPi Directo</title>
+<programme start="20260706035000 +0800" stop="20260706070000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">直播2026 FIFA世界盃：16強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Round of 16 (Live)</title>
+</programme>
+<programme start="20260706070000 +0800" stop="20260706071500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">澳門經典車小百科</title>
+  <title lang="eng">The Encyclopedia Of Classic Cars (Edited version)</title>
+</programme>
+<programme start="20260706071500 +0800" stop="20260706075000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">2025勒芒盃雜誌︰第六集 波爾堤莫站</title>
+  <title lang="eng">2025 Michelin Le Mans Cup Magazine: ep 6. PORTIMAO</title>
+</programme>
+<programme start="20260706075000 +0800" stop="20260706110000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">直播2026 FIFA世界盃：16強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Round of 16 (Live)</title>
+</programme>
+<programme start="20260706110000 +0800" stop="20260706112000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">澳門經典車小百科</title>
+  <title lang="eng">The Encyclopedia Of Classic Cars (Edited version)</title>
+</programme>
+<programme start="20260706112000 +0800" stop="20260706130000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">第25屆冬季奧運會：冰壺混雙銅牌賽</title>
+  <title lang="eng">The 25th Winter Olympic Games (Edited Version)</title>
+</programme>
+<programme start="20260706130000 +0800" stop="20260706131500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">體育新聞</title>
+  <title lang="eng">Sport News</title>
+</programme>
+<programme start="20260706131500 +0800" stop="20260706184000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">2026湯尤盃羽毛球賽：中華台北 對 印尼 - 尤伯盃分組賽</title>
+  <title lang="eng">BWF Thomas &amp; Uber Cup 2026 : Chinese Taipei vs Indonesia - Group Stage (UC C)</title>
+</programme>
+<programme start="20260706184000 +0800" stop="20260706190000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">澳門經典車小百科</title>
+  <title lang="eng">The Encyclopedia Of Classic Cars (Edited version)</title>
+</programme>
+<programme start="20260706190000 +0800" stop="20260706215000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">2026 FIFA世界盃：16強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Round of 16</title>
+</programme>
+<programme start="20260706215000 +0800" stop="20260706220000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">體育新聞</title>
+  <title lang="eng">Sport News</title>
+</programme>
+<programme start="20260706220000 +0800" stop="20260706223000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">Goal舉世界盃</title>
+  <title lang="eng">Lift the World Cup</title>
+</programme>
+<programme start="20260706223000 +0800" stop="20260706231000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">環球體育</title>
+  <title lang="eng">Global Sports</title>
+</programme>
+<programme start="20260706231000 +0800" stop="20260706234500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">第25屆冬季奧運會：雪橇男子雙人第1輪</title>
+  <title lang="eng">The 25th Winter Olympic Games (Edited Version)</title>
+</programme>
+<programme start="20260706234500 +0800" stop="20260706235500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">體育新聞</title>
+  <title lang="eng">Sport News</title>
+</programme>
+<programme start="20260706235500 +0800" stop="20260707010000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">2025中國羽毛球公開賽︰混雙決賽</title>
+  <title lang="eng">BWF World Tour - China Open 2025 : Mixed&apos;s Double - Final</title>
+</programme>
+<programme start="20260707010000 +0800" stop="20260707022000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">2025中國羽毛球公開賽︰女雙決賽</title>
+  <title lang="eng">BWF World Tour - China Open 2025 : Women&apos;s Double - Final</title>
+</programme>
+<programme start="20260707022000 +0800" stop="20260707025000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">2025勒芒盃雜誌︰第七集 賽季回顧</title>
+  <title lang="eng">2025 Michelin Le Mans Cup Magazine: ep 7. Season Review</title>
+</programme>
+<programme start="20260707025000 +0800" stop="20260707050000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">直播2026 FIFA世界盃：16強</title>
+  <title lang="eng">FIFA World Cup 2026™ : Round of 16 (Live)</title>
 </programme>
 <programme start="20260629133000 +0800" stop="20260629143000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">News (RTPi) Delayed Broadcast</title>
@@ -3849,9 +3669,13 @@
   <title lang="chi">Main News, Financial &amp; Weather Report</title>
   <title lang="eng">Telejornal</title>
 </programme>
-<programme start="20260629204500 +0800" stop="20260629214000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260629204500 +0800" stop="20260629211000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">Semanário</title>
   <title lang="eng">Semanário</title>
+</programme>
+<programme start="20260629211000 +0800" stop="20260629214000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Passado em Foco: Festividades de Macau - Festividade de Lu Pan</title>
+  <title lang="eng">Passado em Foco: Festividades de Macau - Festividade de Lu Pan</title>
 </programme>
 <programme start="20260629214000 +0800" stop="20260629223000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">Rebirth</title>
@@ -4089,7 +3913,19 @@
   <title lang="chi">Tudo É Economia</title>
   <title lang="eng">Tudo É Economia</title>
 </programme>
-<programme start="20260702235500 +0800" stop="20260703133000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260702235500 +0800" stop="20260703064900 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">RTPi Live</title>
+  <title lang="eng">RTPi Directo</title>
+</programme>
+<programme start="20260703064900 +0800" stop="20260703065000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">FIFA World Cup 2026 - Social Campaigns Spots</title>
+  <title lang="eng">FIFA World Cup 2026 - Social Campaigns Spots</title>
+</programme>
+<programme start="20260703065000 +0800" stop="20260703090000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">FIFA WORLD CUP 2026 - Round of 32: Portugal vs Croatia (Live)</title>
+  <title lang="eng">Campeonato do Mundo FIFA 2026 - 16 Avos de Final: Portugal vs Coácia (Directo)</title>
+</programme>
+<programme start="20260703090000 +0800" stop="20260703133000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">RTPi Live</title>
   <title lang="eng">RTPi Directo</title>
 </programme>
@@ -4161,7 +3997,19 @@
   <title lang="chi">Pecado - Finale</title>
   <title lang="eng">Pecado - Fim</title>
 </programme>
-<programme start="20260703235500 +0800" stop="20260704133000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260703235500 +0800" stop="20260704054900 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">RTPi Live</title>
+  <title lang="eng">RTPi Directo</title>
+</programme>
+<programme start="20260704054900 +0800" stop="20260704055000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">FIFA World Cup 2026 - Social Campaigns Spots</title>
+  <title lang="eng">FIFA World Cup 2026 - Social Campaigns Spots</title>
+</programme>
+<programme start="20260704055000 +0800" stop="20260704080000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">FIFA WORLD CUP 2026 - Round of 32: Argentina vs Cape Verde (Live)</title>
+  <title lang="eng">Campeonato do Mundo FIFA 2026 - 16 Avos de Final: Argentina vs Cabo Verde (Directo)</title>
+</programme>
+<programme start="20260704080000 +0800" stop="20260704133000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">RTPi Live</title>
   <title lang="eng">RTPi Directo</title>
 </programme>
@@ -4376,98 +4224,6 @@
 <programme start="20260706060000 +0800" stop="20260706074900 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">RTPi Live</title>
   <title lang="eng">RTPi Directo</title>
-</programme>
-<programme start="20260629020000 +0800" stop="20260629024600 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">在世界的角落紮營</title>
-  <title lang="eng">Camping Around The World</title>
-</programme>
-<programme start="20260629024600 +0800" stop="20260629025100 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">5億年，岩石裡的生命奇跡</title>
-  <title lang="eng">500 MILLION YEARS, MIRACLES OF LIFE IN ROCKS</title>
-</programme>
-<programme start="20260629025100 +0800" stop="20260629030000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">生於斯 長於斯</title>
-  <title lang="eng">My Land, My People</title>
-</programme>
-<programme start="20260629030000 +0800" stop="20260629032500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">錄播普通話新聞</title>
-  <title lang="eng">Pu-Tong-Hua News</title>
-</programme>
-<programme start="20260629032500 +0800" stop="20260629040000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">錄播晚間新聞</title>
-  <title lang="eng">TDM Late News</title>
-</programme>
-<programme start="20260629040000 +0800" stop="20260629044700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">三吃客</title>
-  <title lang="eng">Foodie Trio</title>
-</programme>
-<programme start="20260629044700 +0800" stop="20260629052500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">重播中國城市動態</title>
-  <title lang="eng">City News Net of China (Repeat)</title>
-</programme>
-<programme start="20260629052500 +0800" stop="20260629070000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">你的世界我們懂</title>
-  <title lang="eng">Your World in Mine</title>
-</programme>
-<programme start="20260629070000 +0800" stop="20260629080000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">早晨新聞</title>
-  <title lang="eng">TDM Morning News</title>
-</programme>
-<programme start="20260629080000 +0800" stop="20260629090000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">澳門早晨</title>
-  <title lang="eng">Good Morning Macau</title>
-</programme>
-<programme start="20260629090000 +0800" stop="20260629090200 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">TDM 新視點</title>
-  <title lang="eng">TDM Focus</title>
-</programme>
-<programme start="20260629090200 +0800" stop="20260629092500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">澳門人澳門事</title>
-  <title lang="eng">Our People, Our Life</title>
-</programme>
-<programme start="20260629092500 +0800" stop="20260629093000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">趣談唐詩</title>
-  <title lang="eng">Having Fun in Tang Poetry</title>
-</programme>
-<programme start="20260629093000 +0800" stop="20260629100000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">廚房裡的桃花源</title>
-  <title lang="eng">Find Me Beyond the Kitchen</title>
-</programme>
-<programme start="20260629100000 +0800" stop="20260629103000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260629103000 +0800" stop="20260629111000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">重播中國城市動態</title>
-  <title lang="eng">City News Net of China (Repeat)</title>
-</programme>
-<programme start="20260629111000 +0800" stop="20260629124500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">承歡記</title>
-  <title lang="eng">Best Choice Ever</title>
-</programme>
-<programme start="20260629124500 +0800" stop="20260629131000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">超級巴斯德</title>
-  <title lang="eng">Super Pasteur</title>
-</programme>
-<programme start="20260629131000 +0800" stop="20260629131200 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">TDM 新視點</title>
-  <title lang="eng">TDM Focus</title>
-</programme>
-<programme start="20260629131200 +0800" stop="20260629131700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">趣談唐詩</title>
-  <title lang="eng">Having Fun in Tang Poetry</title>
-</programme>
-<programme start="20260629131700 +0800" stop="20260629132400 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">中國軟實力</title>
-  <title lang="eng">China Soft Power</title>
-</programme>
-<programme start="20260629132400 +0800" stop="20260629133000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">午間天氣報告</title>
-  <title lang="eng">Noon Weather Report</title>
-</programme>
-<programme start="20260629133000 +0800" stop="20260629140000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">午間新聞</title>
-  <title lang="eng">Noon News</title>
 </programme>
 <programme start="20260629140000 +0800" stop="20260629150000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
   <title lang="chi">每日財經</title>
@@ -4713,11 +4469,11 @@
   <title lang="chi">直播第十八屆中國 – 葡語國家文化週之中國與葡語國家歌舞表演</title>
   <title lang="eng">18.ª  Semana Cultural da China e dos Países de Língua Portuguesa Música e Dança (Live)</title>
 </programme>
-<programme start="20260630210000 +0800" stop="20260630212000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+<programme start="20260630210000 +0800" stop="20260630211600 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
   <title lang="chi">《葡角漫遊》之佛得角</title>
   <title lang="eng">Pelos Cantos da Lusofonia - Cabo Verde</title>
 </programme>
-<programme start="20260630212000 +0800" stop="20260630213300 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+<programme start="20260630211600 +0800" stop="20260630213300 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
   <title lang="chi">巧手時光</title>
   <title lang="eng">Excellent Craftsmansip</title>
 </programme>
@@ -5081,9 +4837,13 @@
   <title lang="chi">兒童節目︰新西遊歷險記</title>
   <title lang="eng">Children Programme: New Journey to the West</title>
 </programme>
-<programme start="20260702170000 +0800" stop="20260702175800 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+<programme start="20260702170000 +0800" stop="20260702173000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
   <title lang="chi">兒童節目︰萌賽可第一季</title>
   <title lang="eng">Children Programme: Space Protectors (S1)</title>
+</programme>
+<programme start="20260702173000 +0800" stop="20260702175800 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">兒童節目︰萌賽可第二季</title>
+  <title lang="eng">Children Programme: Space Protectors (S2)</title>
 </programme>
 <programme start="20260702175800 +0800" stop="20260702183800 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
   <title lang="chi">重播動感教菁</title>
