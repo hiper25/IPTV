@@ -25,78 +25,6 @@
   <display-name>澳視澳門</display-name>
   <display-name>91</display-name>
 </channel>
-<programme start="20260907235500 +0800" stop="20260908132000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">RTPi Live</title>
-  <title lang="eng">RTPi Directo</title>
-</programme>
-<programme start="20260908132000 +0800" stop="20260908143000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">News (RTPi) Delayed Broadcast</title>
-  <title lang="eng">Telejornal RTPi (Diferido)</title>
-</programme>
-<programme start="20260908143000 +0800" stop="20260908145500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Superstore S5 - Finale</title>
-  <title lang="eng">Superstore T5 - Fim</title>
-</programme>
-<programme start="20260908145500 +0800" stop="20260908154000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Dear Daddies</title>
-  <title lang="eng">Queridos Papás</title>
-</programme>
-<programme start="20260908154000 +0800" stop="20260908155500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">RoboCar Poli S2</title>
-  <title lang="eng">O Carrinho Poli T2</title>
-</programme>
-<programme start="20260908155500 +0800" stop="20260908162000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Guess How Much I Love You S2</title>
-  <title lang="eng">Adivinha o Quanto Eu Gosto de Ti T2</title>
-</programme>
-<programme start="20260908162000 +0800" stop="20260908164500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Cloudy with a Chance of Meatballs S1</title>
-  <title lang="eng">Chovem Almôndegas T1</title>
-</programme>
-<programme start="20260908164500 +0800" stop="20260908171000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Maya the Bee</title>
-  <title lang="eng">Maya the Bee</title>
-</programme>
-<programme start="20260908171000 +0800" stop="20260908180000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Renascer (Repeated)</title>
-  <title lang="eng">Renascer (Repetição)</title>
-</programme>
-<programme start="20260908180000 +0800" stop="20260908182000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Personaliza a Tua Casa S2</title>
-  <title lang="eng">Personaliza a Tua Casa T2</title>
-</programme>
-<programme start="20260908182000 +0800" stop="20260908190500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Parenthood S2 - Finale</title>
-  <title lang="eng">Parenthood - Uma História de Família T2 - Fim</title>
-</programme>
-<programme start="20260908190500 +0800" stop="20260908200000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">A Fazenda</title>
-  <title lang="eng">A Fazenda</title>
-</programme>
-<programme start="20260908200000 +0800" stop="20260908204500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Main News, Financial &amp; Weather Report</title>
-  <title lang="eng">Telejornal</title>
-</programme>
-<programme start="20260908204500 +0800" stop="20260908212000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Primeira Pessoa</title>
-  <title lang="eng">Primeira Pessoa</title>
-</programme>
-<programme start="20260908212000 +0800" stop="20260908214000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Mundo à Vista S4 - Finale</title>
-  <title lang="eng">Mundo à Vista T4 - Fim</title>
-</programme>
-<programme start="20260908214000 +0800" stop="20260908223000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Rebirth</title>
-  <title lang="eng">Renascer</title>
-</programme>
-<programme start="20260908223000 +0800" stop="20260908230500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">TDM News</title>
-  <title lang="eng">TDM News</title>
-</programme>
-<programme start="20260908230500 +0800" stop="20260908233000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Grande Baía da Inspiração: O Estudo de um Sinólogo Francês no Sul da China</title>
-  <title lang="eng">Grande Baía da Inspiração: O Estudo de um Sinólogo Francês no Sul da China</title>
-</programme>
 <programme start="20260908233000 +0800" stop="20260909132000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">RTPi Live</title>
   <title lang="eng">RTPi Directo</title>
@@ -301,7 +229,7 @@
   <title lang="chi">Main News, Financial &amp; Weather Report</title>
   <title lang="eng">Telejornal</title>
 </programme>
-<programme start="20260911204500 +0800" stop="20260911211500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260911204500 +0800" stop="20260911212000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">China 360°</title>
   <title lang="eng">China 360°</title>
 </programme>
@@ -521,47 +449,47 @@
   <title lang="chi">Cloudy with a Chance of Meatballs S1</title>
   <title lang="eng">Chovem Almôndegas T1</title>
 </programme>
-<programme start="20260914164500 +0800" stop="20260914171000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260914164500 +0800" stop="20260914170900 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">Maya the Bee</title>
   <title lang="eng">Maya the Bee</title>
 </programme>
-<programme start="20260914171000 +0800" stop="20260914175900 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
-  <title lang="chi">Renascer (Repeated)</title>
-  <title lang="eng">Renascer (Repetição)</title>
-</programme>
-<programme start="20260914175900 +0800" stop="20260914180000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260914170900 +0800" stop="20260914171000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">Filler</title>
   <title lang="eng">Separador</title>
 </programme>
-<programme start="20260914180000 +0800" stop="20260914183500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260914171000 +0800" stop="20260914174500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">Ler nas Ilhas</title>
   <title lang="eng">Ler nas Ilhas</title>
 </programme>
-<programme start="20260914183500 +0800" stop="20260914190500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260914174500 +0800" stop="20260914181500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">Outras Histórias</title>
   <title lang="eng">Outras Histórias</title>
+</programme>
+<programme start="20260914181500 +0800" stop="20260914190500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">TDM Interview - Cardeal Américo Aguiar (Repeated)</title>
+  <title lang="eng">TDM Entrevista - Cardeal Américo Aguiar (Repetição)</title>
 </programme>
 <programme start="20260914190500 +0800" stop="20260914200000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">A Fazenda</title>
   <title lang="eng">A Fazenda</title>
 </programme>
-<programme start="20260914200000 +0800" stop="20260914204500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260914200000 +0800" stop="20260914205000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">Main News, Financial &amp; Weather Report</title>
   <title lang="eng">Telejornal</title>
 </programme>
-<programme start="20260914204500 +0800" stop="20260914214000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260914205000 +0800" stop="20260914214000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">Semanário</title>
   <title lang="eng">Semanário</title>
 </programme>
-<programme start="20260914214000 +0800" stop="20260914223000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260914214000 +0800" stop="20260914223500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">Rebirth</title>
   <title lang="eng">Renascer</title>
 </programme>
-<programme start="20260914223000 +0800" stop="20260914230500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260914223500 +0800" stop="20260914231000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">TDM News</title>
   <title lang="eng">TDM News</title>
 </programme>
-<programme start="20260914230500 +0800" stop="20260914235500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+<programme start="20260914231000 +0800" stop="20260914235500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
   <title lang="chi">Remarkable Construction S2 - Finale</title>
   <title lang="eng">Construção Extraordinária T2 - Fim</title>
 </programme>
@@ -569,201 +497,77 @@
   <title lang="chi">RTPi Live</title>
   <title lang="eng">RTPi Directo</title>
 </programme>
-<programme start="20260908020000 +0800" stop="20260908070000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">收台</title>
-  <title lang="eng">Close</title>
+<programme start="20260915132000 +0800" stop="20260915143000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">News (RTPi) Delayed Broadcast</title>
+  <title lang="eng">Telejornal RTPi (Diferido)</title>
 </programme>
-<programme start="20260908070000 +0800" stop="20260908080000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">早晨新聞</title>
-  <title lang="eng">TDM Morning News</title>
+<programme start="20260915143000 +0800" stop="20260915145500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Chef&apos;s Cuisine S1</title>
+  <title lang="eng">Cozinha de Chef T1</title>
 </programme>
-<programme start="20260908080000 +0800" stop="20260908090000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">澳門早晨</title>
-  <title lang="eng">Good Morning Macau</title>
+<programme start="20260915145500 +0800" stop="20260915154000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Dear Daddies</title>
+  <title lang="eng">Queridos Papás</title>
 </programme>
-<programme start="20260908090000 +0800" stop="20260908093000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">重播早晨新聞</title>
-  <title lang="eng">TDM Morning News (Repeat)</title>
+<programme start="20260915154000 +0800" stop="20260915155500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">RoboCar Poli S3</title>
+  <title lang="eng">O Carrinho Poli T3</title>
 </programme>
-<programme start="20260908093000 +0800" stop="20260908100000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">灣區全媒睇</title>
-  <title lang="eng">All About the Greater Bay Area</title>
+<programme start="20260915155500 +0800" stop="20260915162000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Guess How Much I Love You S2</title>
+  <title lang="eng">Adivinha o Quanto Eu Gosto de Ti T2</title>
 </programme>
-<programme start="20260908100000 +0800" stop="20260908103000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
+<programme start="20260915162000 +0800" stop="20260915164500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Cloudy with a Chance of Meatballs S1</title>
+  <title lang="eng">Chovem Almôndegas T1</title>
 </programme>
-<programme start="20260908103000 +0800" stop="20260908110000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
+<programme start="20260915164500 +0800" stop="20260915171000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Maya the Bee</title>
+  <title lang="eng">Maya the Bee</title>
 </programme>
-<programme start="20260908110000 +0800" stop="20260908111200 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
+<programme start="20260915171000 +0800" stop="20260915175900 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Renascer (Repeated)</title>
+  <title lang="eng">Renascer (Repetição)</title>
 </programme>
-<programme start="20260908111200 +0800" stop="20260908112000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">宇宙更強</title>
-  <title lang="eng">Universal Strongholds</title>
+<programme start="20260915175900 +0800" stop="20260915180000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Filler</title>
+  <title lang="eng">Separador</title>
 </programme>
-<programme start="20260908112000 +0800" stop="20260908115000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">重播風火台</title>
-  <title lang="eng">Wind and Fire (Repeat)</title>
+<programme start="20260915180000 +0800" stop="20260915183500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Ler nas Ilhas</title>
+  <title lang="eng">Ler nas Ilhas</title>
 </programme>
-<programme start="20260908115000 +0800" stop="20260908120000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">澳門早晨精華篇</title>
-  <title lang="eng">Good Morning Macau : Highlights</title>
+<programme start="20260915183500 +0800" stop="20260915190500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Outras Histórias</title>
+  <title lang="eng">Outras Histórias</title>
 </programme>
-<programme start="20260908120000 +0800" stop="20260908122000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
+<programme start="20260915190500 +0800" stop="20260915200000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">A Fazenda</title>
+  <title lang="eng">A Fazenda</title>
 </programme>
-<programme start="20260908122000 +0800" stop="20260908122700 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">宇宙更強</title>
-  <title lang="eng">Universal Strongholds</title>
+<programme start="20260915200000 +0800" stop="20260915205000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Main News, Financial &amp; Weather Report</title>
+  <title lang="eng">Telejornal</title>
 </programme>
-<programme start="20260908122700 +0800" stop="20260908123000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">街市情報</title>
-  <title lang="eng">Food Price Update</title>
+<programme start="20260915205000 +0800" stop="20260915214000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">TDM Desporto</title>
+  <title lang="eng">TDM Desporto</title>
 </programme>
-<programme start="20260908123000 +0800" stop="20260908125000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
+<programme start="20260915214000 +0800" stop="20260915223500 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Rebirth</title>
+  <title lang="eng">Renascer</title>
 </programme>
-<programme start="20260908125000 +0800" stop="20260908130000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">四川非遺100 - 第五季</title>
-  <title lang="eng">Sichuan Intangible Cultural Heritage (S5)</title>
-</programme>
-<programme start="20260908130000 +0800" stop="20260908131700 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260908131700 +0800" stop="20260908132400 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">宇宙更強</title>
-  <title lang="eng">Universal Strongholds</title>
-</programme>
-<programme start="20260908132400 +0800" stop="20260908133000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">午間天氣報告</title>
-  <title lang="eng">Noon Weather Report</title>
-</programme>
-<programme start="20260908133000 +0800" stop="20260908140000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">午間新聞</title>
-  <title lang="eng">Noon News</title>
-</programme>
-<programme start="20260908140000 +0800" stop="20260908145900 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">每日財經</title>
-  <title lang="eng">Financial Daily</title>
-</programme>
-<programme start="20260908145900 +0800" stop="20260908150000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">重點節目宣傳片</title>
-  <title lang="eng">Promotion</title>
-</programme>
-<programme start="20260908150000 +0800" stop="20260908152500 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260908152500 +0800" stop="20260908153000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">街市情報</title>
-  <title lang="eng">Food Price Update</title>
-</programme>
-<programme start="20260908153000 +0800" stop="20260908160000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260908160000 +0800" stop="20260908163000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260908163000 +0800" stop="20260908170000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260908170000 +0800" stop="20260908173000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260908173000 +0800" stop="20260908175000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260908175000 +0800" stop="20260908180000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">宇宙更強</title>
-  <title lang="eng">Universal Strongholds</title>
-</programme>
-<programme start="20260908180000 +0800" stop="20260908180500 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260908180500 +0800" stop="20260908180700 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">TDM 新視點</title>
-  <title lang="eng">TDM Focus</title>
-</programme>
-<programme start="20260908180700 +0800" stop="20260908183000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">澳門早晨精華錄</title>
-  <title lang="eng">Repeat of Good Morning Macau</title>
-</programme>
-<programme start="20260908183000 +0800" stop="20260908190000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">大灣區經濟新聞</title>
-  <title lang="eng">Economic News </title>
-</programme>
-<programme start="20260908190000 +0800" stop="20260908195500 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">澳視新聞</title>
+<programme start="20260915223500 +0800" stop="20260915231000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">TDM News</title>
   <title lang="eng">TDM News</title>
 </programme>
-<programme start="20260908195500 +0800" stop="20260908195800 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">天氣報告</title>
-  <title lang="eng">Weather Report</title>
+<programme start="20260915231000 +0800" stop="20260915233000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">Grande Baía da Inspiração: O Estudo de um Sinólogo Francês no Sul da China</title>
+  <title lang="eng">Grande Baía da Inspiração: O Estudo de um Sinólogo Francês no Sul da China</title>
 </programme>
-<programme start="20260908195800 +0800" stop="20260908200000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">TDM 新視點</title>
-  <title lang="eng">TDM Focus</title>
-</programme>
-<programme start="20260908200000 +0800" stop="20260908210000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">錄播澳視新聞</title>
-  <title lang="eng">TDM News (Taped)</title>
-</programme>
-<programme start="20260908210000 +0800" stop="20260908220000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">錄播澳視新聞</title>
-  <title lang="eng">TDM News (Taped)</title>
-</programme>
-<programme start="20260908220000 +0800" stop="20260908223000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">普通話新聞</title>
-  <title lang="eng">Pu-Tong-Hua News</title>
-</programme>
-<programme start="20260908223000 +0800" stop="20260908231400 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">十點半澳視縱橫：競健群英 2026</title>
-  <title lang="eng">Macau Sports 2026</title>
-</programme>
-<programme start="20260908231400 +0800" stop="20260908231500 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">重點節目宣傳片</title>
-  <title lang="eng">Promotion</title>
-</programme>
-<programme start="20260908231500 +0800" stop="20260908235000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">晚間新聞</title>
-  <title lang="eng">TDM Late News</title>
-</programme>
-<programme start="20260908235000 +0800" stop="20260909000500 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">體育新聞</title>
-  <title lang="eng">Sport News</title>
-</programme>
-<programme start="20260909000500 +0800" stop="20260909003500 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">重播大灣區經濟新聞</title>
-  <title lang="eng">Economic News  (Repeat)</title>
-</programme>
-<programme start="20260909003500 +0800" stop="20260909004500 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">澳門早晨精華篇</title>
-  <title lang="eng">Good Morning Macau : Highlights</title>
-</programme>
-<programme start="20260909004500 +0800" stop="20260909011500 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">錄播普通話新聞</title>
-  <title lang="eng">Pu-Tong-Hua News (Taped)</title>
-</programme>
-<programme start="20260909011500 +0800" stop="20260909015000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">錄播晚間新聞</title>
-  <title lang="eng">TDMLateNews(Taped)</title>
-</programme>
-<programme start="20260909015000 +0800" stop="20260909020000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">重播體育新聞</title>
-  <title lang="eng">Sport News (Repeat)</title>
+<programme start="20260915233000 +0800" stop="20260916132000 +0800" channel="f337b74a9a43cbdebb39ff37f2b1641b">
+  <title lang="chi">RTPi Live</title>
+  <title lang="eng">RTPi Directo</title>
 </programme>
 <programme start="20260909020000 +0800" stop="20260909070000 +0800" channel="9177e4866643873ebf4998de0c56431a">
   <title lang="chi">收台</title>
@@ -793,17 +597,9 @@
   <title lang="chi">新聞報道</title>
   <title lang="eng">News Summary</title>
 </programme>
-<programme start="20260909110000 +0800" stop="20260909113000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+<programme start="20260909110000 +0800" stop="20260909120000 +0800" channel="9177e4866643873ebf4998de0c56431a">
   <title lang="chi">新聞報道</title>
   <title lang="eng">News Summary</title>
-</programme>
-<programme start="20260909113000 +0800" stop="20260909113800 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">營商創新研究所</title>
-  <title lang="eng">Business Innovation Institute</title>
-</programme>
-<programme start="20260909113800 +0800" stop="20260909120000 +0800" channel="9177e4866643873ebf4998de0c56431a">
-  <title lang="chi">澳門人澳門事</title>
-  <title lang="eng">Our People, Our Life</title>
 </programme>
 <programme start="20260909120000 +0800" stop="20260909122000 +0800" channel="9177e4866643873ebf4998de0c56431a">
   <title lang="chi">新聞報道</title>
@@ -1977,11 +1773,11 @@
   <title lang="chi">體育新聞</title>
   <title lang="eng">Sport News</title>
 </programme>
-<programme start="20260915000500 +0800" stop="20260915003700 +0800" channel="9177e4866643873ebf4998de0c56431a">
+<programme start="20260915000500 +0800" stop="20260915003500 +0800" channel="9177e4866643873ebf4998de0c56431a">
   <title lang="chi">絲路時間 USilk - 愛在灣區</title>
   <title lang="eng">USilk - Love In The Bay Area</title>
 </programme>
-<programme start="20260915003700 +0800" stop="20260915004500 +0800" channel="9177e4866643873ebf4998de0c56431a">
+<programme start="20260915003500 +0800" stop="20260915004500 +0800" channel="9177e4866643873ebf4998de0c56431a">
   <title lang="chi">澳門早晨精華篇</title>
   <title lang="eng">Good Morning Macau : Highlights</title>
 </programme>
@@ -2001,73 +1797,201 @@
   <title lang="chi">收台</title>
   <title lang="eng">Close</title>
 </programme>
-<programme start="20260908010000 +0800" stop="20260908100000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+<programme start="20260915070000 +0800" stop="20260915080000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">早晨新聞</title>
+  <title lang="eng">TDM Morning News</title>
+</programme>
+<programme start="20260915080000 +0800" stop="20260915090000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">澳門早晨</title>
+  <title lang="eng">Good Morning Macau</title>
+</programme>
+<programme start="20260915090000 +0800" stop="20260915093000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">重播早晨新聞</title>
+  <title lang="eng">TDM Morning News (Repeat)</title>
+</programme>
+<programme start="20260915093000 +0800" stop="20260915100000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">灣區全媒睇</title>
+  <title lang="eng">All About the Greater Bay Area</title>
+</programme>
+<programme start="20260915100000 +0800" stop="20260915103000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915103000 +0800" stop="20260915110000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915110000 +0800" stop="20260915111200 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915111200 +0800" stop="20260915112000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">Chat下橫琴生活II</title>
+  <title lang="eng">Chatting about Life in Hengqin II</title>
+</programme>
+<programme start="20260915112000 +0800" stop="20260915115000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">重播風火台</title>
+  <title lang="eng">Wind and Fire (Repeat)</title>
+</programme>
+<programme start="20260915115000 +0800" stop="20260915120000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">澳門早晨精華篇</title>
+  <title lang="eng">Good Morning Macau : Highlights</title>
+</programme>
+<programme start="20260915120000 +0800" stop="20260915122000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915122000 +0800" stop="20260915122700 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">Chat下橫琴生活II</title>
+  <title lang="eng">Chatting about Life in Hengqin II</title>
+</programme>
+<programme start="20260915122700 +0800" stop="20260915123000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">街市情報</title>
+  <title lang="eng">Food Price Update</title>
+</programme>
+<programme start="20260915123000 +0800" stop="20260915125000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915125000 +0800" stop="20260915130000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">四川非遺100 - 第五季</title>
+  <title lang="eng">Sichuan Intangible Cultural Heritage (S5)</title>
+</programme>
+<programme start="20260915130000 +0800" stop="20260915131700 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915131700 +0800" stop="20260915132400 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">Chat下橫琴生活II</title>
+  <title lang="eng">Chatting about Life in Hengqin II</title>
+</programme>
+<programme start="20260915132400 +0800" stop="20260915133000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">午間天氣報告</title>
+  <title lang="eng">Noon Weather Report</title>
+</programme>
+<programme start="20260915133000 +0800" stop="20260915140000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">午間新聞</title>
+  <title lang="eng">Noon News</title>
+</programme>
+<programme start="20260915140000 +0800" stop="20260915145900 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">每日財經</title>
+  <title lang="eng">Financial Daily</title>
+</programme>
+<programme start="20260915145900 +0800" stop="20260915150000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">重點節目宣傳片</title>
+  <title lang="eng">Promotion</title>
+</programme>
+<programme start="20260915150000 +0800" stop="20260915152500 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915152500 +0800" stop="20260915153000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">街市情報</title>
+  <title lang="eng">Food Price Update</title>
+</programme>
+<programme start="20260915153000 +0800" stop="20260915160000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915160000 +0800" stop="20260915163000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915163000 +0800" stop="20260915170000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915170000 +0800" stop="20260915173000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915173000 +0800" stop="20260915175000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915175000 +0800" stop="20260915180000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">Chat下橫琴生活II</title>
+  <title lang="eng">Chatting about Life in Hengqin II</title>
+</programme>
+<programme start="20260915180000 +0800" stop="20260915180500 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915180500 +0800" stop="20260915180700 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">TDM 新視點</title>
+  <title lang="eng">TDM Focus</title>
+</programme>
+<programme start="20260915180700 +0800" stop="20260915183000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">澳門早晨精華錄</title>
+  <title lang="eng">Repeat of Good Morning Macau</title>
+</programme>
+<programme start="20260915183000 +0800" stop="20260915190000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">大灣區經濟新聞</title>
+  <title lang="eng">Economic News </title>
+</programme>
+<programme start="20260915190000 +0800" stop="20260915195500 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">澳視新聞</title>
+  <title lang="eng">TDM News</title>
+</programme>
+<programme start="20260915195500 +0800" stop="20260915195800 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">天氣報告</title>
+  <title lang="eng">Weather Report</title>
+</programme>
+<programme start="20260915195800 +0800" stop="20260915200000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">TDM 新視點</title>
+  <title lang="eng">TDM Focus</title>
+</programme>
+<programme start="20260915200000 +0800" stop="20260915210000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">錄播澳視新聞</title>
+  <title lang="eng">TDM News (Taped)</title>
+</programme>
+<programme start="20260915210000 +0800" stop="20260915220000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">錄播澳視新聞</title>
+  <title lang="eng">TDM News (Taped)</title>
+</programme>
+<programme start="20260915220000 +0800" stop="20260915223000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">普通話新聞</title>
+  <title lang="eng">Pu-Tong-Hua News</title>
+</programme>
+<programme start="20260915223000 +0800" stop="20260915231400 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">十點半澳視縱橫：競健群英 2026</title>
+  <title lang="eng">Macau Sports 2026</title>
+</programme>
+<programme start="20260915231400 +0800" stop="20260915231500 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">重點節目宣傳片</title>
+  <title lang="eng">Promotion</title>
+</programme>
+<programme start="20260915231500 +0800" stop="20260915235000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">晚間新聞</title>
+  <title lang="eng">TDM Late News</title>
+</programme>
+<programme start="20260915235000 +0800" stop="20260916000500 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">體育新聞</title>
+  <title lang="eng">Sport News</title>
+</programme>
+<programme start="20260916000500 +0800" stop="20260916003500 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">重播大灣區經濟新聞</title>
+  <title lang="eng">Economic News  (Repeat)</title>
+</programme>
+<programme start="20260916003500 +0800" stop="20260916004500 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">澳門早晨精華篇</title>
+  <title lang="eng">Good Morning Macau : Highlights</title>
+</programme>
+<programme start="20260916004500 +0800" stop="20260916011500 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">錄播普通話新聞</title>
+  <title lang="eng">Pu-Tong-Hua News (Taped)</title>
+</programme>
+<programme start="20260916011500 +0800" stop="20260916015000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">錄播晚間新聞</title>
+  <title lang="eng">TDMLateNews(Taped)</title>
+</programme>
+<programme start="20260916015000 +0800" stop="20260916020000 +0800" channel="9177e4866643873ebf4998de0c56431a">
+  <title lang="chi">重播體育新聞</title>
+  <title lang="eng">Sport News (Repeat)</title>
+</programme>
+<programme start="20260916020000 +0800" stop="20260916070000 +0800" channel="9177e4866643873ebf4998de0c56431a">
   <title lang="chi">收台</title>
   <title lang="eng">Close</title>
-</programme>
-<programme start="20260908100000 +0800" stop="20260908124500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 FIFA世界盃：阿根廷 對 佛得角 - 32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Argentina  vs  Cape Verde - Round of 32</title>
-</programme>
-<programme start="20260908124500 +0800" stop="20260908130000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">全攻亞運</title>
-  <title lang="eng">All In Asian Games</title>
-</programme>
-<programme start="20260908130000 +0800" stop="20260908131500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">體育新聞</title>
-  <title lang="eng">Sport News</title>
-</programme>
-<programme start="20260908131500 +0800" stop="20260908140000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026世界羽毛球錦標賽：女單64強</title>
-  <title lang="eng">BWF World Championships 2026 : Women&apos;s Single Round of 64</title>
-</programme>
-<programme start="20260908140000 +0800" stop="20260908143500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026世界羽毛球錦標賽：男雙64強</title>
-  <title lang="eng">BWF World Championships 2026 : Men&apos;s Double Round of 64</title>
-</programme>
-<programme start="20260908143500 +0800" stop="20260908152000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026世界羽毛球錦標賽：男單64強</title>
-  <title lang="eng">BWF World Championships 2026 : Men&apos;s Single Round of 64</title>
-</programme>
-<programme start="20260908152000 +0800" stop="20260908153500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">全攻亞運</title>
-  <title lang="eng">All In Asian Games</title>
-</programme>
-<programme start="20260908153500 +0800" stop="20260908174000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 FIFA世界盃：哥倫比亞 對 加納 - 32強</title>
-  <title lang="eng">FIFA World Cup 2026™ : Colombia  vs  Ghana - Round of 32</title>
-</programme>
-<programme start="20260908174000 +0800" stop="20260908185000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 WTT 重慶乒乓球冠軍賽：女單決賽</title>
-  <title lang="eng">WTT Champions Chongqing 2026(Edited Version) : Women&apos;s Single Final</title>
-</programme>
-<programme start="20260908185000 +0800" stop="20260908194000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026 WTT 重慶乒乓球冠軍賽：男單決賽</title>
-  <title lang="eng">WTT Champions Chongqing 2026(Edited Version) : Men&apos;s Single Final</title>
-</programme>
-<programme start="20260908194000 +0800" stop="20260908204000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026街頭聯盟滑板賽精華：第三集 洛杉磯站 - 男子組</title>
-  <title lang="eng">Street League Skateboarding Highlights 2026: ep.3 DTLA Men Highlight Show</title>
-</programme>
-<programme start="20260908204000 +0800" stop="20260908205000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">澳門經典車小百科</title>
-  <title lang="eng">The Encyclopedia Of Classic Cars</title>
-</programme>
-<programme start="20260908205000 +0800" stop="20260908210000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">體育新聞</title>
-  <title lang="eng">Sport News</title>
-</programme>
-<programme start="20260908210000 +0800" stop="20260908230000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">2026/2027西班牙甲組足球聯賽：華倫西亞  對  巴塞羅那</title>
-  <title lang="eng">La Liga 2026/2027 : Valencia  vs  Barcelona</title>
-</programme>
-<programme start="20260908230000 +0800" stop="20260908231000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">體育新聞</title>
-  <title lang="eng">Sport News</title>
-</programme>
-<programme start="20260908231000 +0800" stop="20260908232500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
-  <title lang="chi">全攻亞運</title>
-  <title lang="eng">All In Asian Games</title>
 </programme>
 <programme start="20260908232500 +0800" stop="20260909053000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
   <title lang="chi">直播2026美國網球公開賽：女單、男單- 8強</title>
@@ -2509,217 +2433,73 @@
   <title lang="chi">收台</title>
   <title lang="eng">Close</title>
 </programme>
-<programme start="20260908020000 +0800" stop="20260908024000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">葡語新聞</title>
-  <title lang="eng">Telejornal</title>
+<programme start="20260915100000 +0800" stop="20260915120000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">2026FIFA世界盃：美國 對 比利時 - 16強</title>
+  <title lang="eng">FIFA World Cup 2026™ : USA  vs  Belgium - Round of 16</title>
 </programme>
-<programme start="20260908024000 +0800" stop="20260908031000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">財經雜誌 - 對話灣區</title>
-  <title lang="eng">Revista Financeira – Diálogo da Grande Baía</title>
+<programme start="20260915120000 +0800" stop="20260915130000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">亞洲高爾夫球巡迴賽精華</title>
+  <title lang="eng">Asian Tour Golf Highlights</title>
 </programme>
-<programme start="20260908031000 +0800" stop="20260908034000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">“葡”出個味蕾</title>
-  <title lang="eng">Saboroso</title>
+<programme start="20260915130000 +0800" stop="20260915131500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">體育新聞</title>
+  <title lang="eng">Sport News</title>
 </programme>
-<programme start="20260908034000 +0800" stop="20260908040000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">靈感大灣區</title>
-  <title lang="eng">Grande Baía da Inspiração: O Estudo de um Sinólogo Francês no Sul da China</title>
+<programme start="20260915131500 +0800" stop="20260915172500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">2025澳門高爾夫球公開賽</title>
+  <title lang="eng">Macao Open 2025</title>
 </programme>
-<programme start="20260908040000 +0800" stop="20260908041000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">好書分享</title>
-  <title lang="eng">Livros Com João Guedes</title>
+<programme start="20260915172500 +0800" stop="20260915175500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">全攻亞運</title>
+  <title lang="eng">All In Asian Games</title>
 </programme>
-<programme start="20260908041000 +0800" stop="20260908044000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">跟我走吧朋友</title>
-  <title lang="eng">Missão Virgem-Estadia-Na China</title>
+<programme start="20260915175500 +0800" stop="20260915200000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">直播亞洲冠軍精英聯賽：拉查布里 對 上海海港</title>
+  <title lang="eng">AFC Champions League Elite 2026/27 : Ratchaburi  vs  Shanghai Port (Live)</title>
 </programme>
-<programme start="20260908044000 +0800" stop="20260908052000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">葡語新聞</title>
-  <title lang="eng">Telejornal</title>
+<programme start="20260915200000 +0800" stop="20260915201000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">澳門經典車小百科</title>
+  <title lang="eng">The Encyclopedia Of Classic Cars</title>
 </programme>
-<programme start="20260908052000 +0800" stop="20260908053000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">國寶時刻</title>
-  <title lang="eng">Shining Treasures of China</title>
+<programme start="20260915201000 +0800" stop="20260915210500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">直播亞洲冠軍精英聯賽：北京國安 對 浦項制鐵</title>
+  <title lang="eng">AFC Champions League Elite 2026/27 : Beijing Guoan  vs  Pohang Steelers (Live)</title>
 </programme>
-<programme start="20260908053000 +0800" stop="20260908062300 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">林則徐 虎門銷煙以外</title>
-  <title lang="eng">Lin Zexu: Beyond the Humen Opium Destruction</title>
+<programme start="20260915210500 +0800" stop="20260915211000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">體育新聞</title>
+  <title lang="eng">Sport News</title>
 </programme>
-<programme start="20260908062300 +0800" stop="20260908063000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">鈷彩凝珍</title>
-  <title lang="eng">Cobalt &amp; Clay</title>
+<programme start="20260915211000 +0800" stop="20260915221500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">直播亞洲冠軍精英聯賽：北京國安 對 浦項制鐵</title>
+  <title lang="eng">AFC Champions League Elite 2026/27 : Beijing Guoan  vs  Pohang Steelers (Live)</title>
 </programme>
-<programme start="20260908063000 +0800" stop="20260908070000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">葡文節目重溫 - 這片土地的人們</title>
-  <title lang="eng">Passado Em Foco</title>
+<programme start="20260915221500 +0800" stop="20260915225000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">全攻亞運</title>
+  <title lang="eng">All In Asian Games</title>
 </programme>
-<programme start="20260908070000 +0800" stop="20260908073000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">馬交遊﹕澳門Chill 好玩</title>
-  <title lang="eng">Macau. Chill. Viva.</title>
+<programme start="20260915225000 +0800" stop="20260915235500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">體育新聞</title>
+  <title lang="eng">Sport News</title>
 </programme>
-<programme start="20260908073000 +0800" stop="20260908080000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">英語新聞</title>
-  <title lang="eng">TDM News</title>
+<programme start="20260915235500 +0800" stop="20260916020000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">直播亞洲冠軍精英聯賽：艾阿恩 對 艾納斯</title>
+  <title lang="eng">AFC Champions League Elite 2026/27 : Al Ain  vs  Al Nassr (Live)</title>
 </programme>
-<programme start="20260908080000 +0800" stop="20260908083000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">“葡”出個味蕾</title>
-  <title lang="eng">Saboroso</title>
+<programme start="20260916020000 +0800" stop="20260916030000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">2025/2026亞洲勒芒系列賽精華</title>
+  <title lang="eng">Asian Le Mans Series 2025/2026 Highlights :</title>
 </programme>
-<programme start="20260908083000 +0800" stop="20260908085200 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">教煮CHILL 好玩</title>
-  <title lang="eng">Cooking ‧ Chill ‧ Viva</title>
+<programme start="20260916030000 +0800" stop="20260916032500 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">全攻亞運</title>
+  <title lang="eng">All In Asian Games</title>
 </programme>
-<programme start="20260908085200 +0800" stop="20260908092000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">灣區全媒睇</title>
-  <title lang="eng">All About the Greater Bay Area</title>
+<programme start="20260916032500 +0800" stop="20260916053000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">直播2026/2027西班牙甲組足球聯賽：艾爾切 對 皇家馬德里</title>
+  <title lang="eng">La Liga 2026/2027 : Elche  vs  Real Madrid (Live)</title>
 </programme>
-<programme start="20260908092000 +0800" stop="20260908095000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">風火台</title>
-  <title lang="eng">Wind and Fire</title>
-</programme>
-<programme start="20260908095000 +0800" stop="20260908100000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">家家有餸煮</title>
-  <title lang="eng">Home Cooking</title>
-</programme>
-<programme start="20260908100000 +0800" stop="20260908103000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">粵語新聞</title>
-  <title lang="eng">TDM Morning News</title>
-</programme>
-<programme start="20260908103000 +0800" stop="20260908105000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">靈感大灣區</title>
-  <title lang="eng">Grande Baía da Inspiração: O Estudo de um Sinólogo Francês no Sul da China</title>
-</programme>
-<programme start="20260908105000 +0800" stop="20260908112500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">跟我走吧朋友</title>
-  <title lang="eng">Missão Virgem-Estadia-Na China</title>
-</programme>
-<programme start="20260908112500 +0800" stop="20260908122000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">林則徐 虎門銷煙以外</title>
-  <title lang="eng">Lin Zexu: Beyond the Humen Opium Destruction</title>
-</programme>
-<programme start="20260908122000 +0800" stop="20260908125000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">風火台</title>
-  <title lang="eng">Wind and Fire</title>
-</programme>
-<programme start="20260908125000 +0800" stop="20260908130000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">好書分享</title>
-  <title lang="eng">Livros Com João Guedes</title>
-</programme>
-<programme start="20260908130000 +0800" stop="20260908133000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">馬交遊﹕澳門Chill 好玩</title>
-  <title lang="eng">Macau. Chill. Viva.</title>
-</programme>
-<programme start="20260908133000 +0800" stop="20260908135300 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">教煮CHILL 好玩</title>
-  <title lang="eng">Cooking ‧ Chill ‧ Viva</title>
-</programme>
-<programme start="20260908135300 +0800" stop="20260908140000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">鈷彩凝珍</title>
-  <title lang="eng">Cobalt &amp; Clay</title>
-</programme>
-<programme start="20260908140000 +0800" stop="20260908143000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">粵語新聞</title>
-  <title lang="eng">TDM Morning News</title>
-</programme>
-<programme start="20260908143000 +0800" stop="20260908150000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">唐‧西豐味</title>
-  <title lang="eng">Chinese ‧Western Pastries</title>
-</programme>
-<programme start="20260908150000 +0800" stop="20260908154000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">葡語新聞</title>
-  <title lang="eng">Telejornal</title>
-</programme>
-<programme start="20260908154000 +0800" stop="20260908155500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">錫蘭王子東行記</title>
-  <title lang="eng">The Prince of  Ceylon&apos;s Journey To The East    </title>
-</programme>
-<programme start="20260908155500 +0800" stop="20260908161500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">靈感大灣區</title>
-  <title lang="eng">Grande Baía da Inspiração: O Estudo de um Sinólogo Francês no Sul da China</title>
-</programme>
-<programme start="20260908161500 +0800" stop="20260908164500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">跟我走吧朋友</title>
-  <title lang="eng">Missão Virgem-Estadia-Na China</title>
-</programme>
-<programme start="20260908164500 +0800" stop="20260908174000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">林則徐 虎門銷煙以外</title>
-  <title lang="eng">Lin Zexu: Beyond the Humen Opium Destruction</title>
-</programme>
-<programme start="20260908174000 +0800" stop="20260908181000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">“葡”出個味蕾</title>
-  <title lang="eng">Saboroso</title>
-</programme>
-<programme start="20260908181000 +0800" stop="20260908184000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">馬交遊﹕澳門Chill 好玩</title>
-  <title lang="eng">Macau. Chill. Viva.</title>
-</programme>
-<programme start="20260908184000 +0800" stop="20260908190000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">澳門早晨精華錄</title>
-  <title lang="eng">Repeat of Good Morning Macau</title>
-</programme>
-<programme start="20260908190000 +0800" stop="20260908192500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">教煮CHILL 好玩</title>
-  <title lang="eng">Cooking ‧ Chill ‧ Viva</title>
-</programme>
-<programme start="20260908192500 +0800" stop="20260908200000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">財經雜誌 - 對話灣區</title>
-  <title lang="eng">Revista Financeira – Diálogo da Grande Baía</title>
-</programme>
-<programme start="20260908200000 +0800" stop="20260908210000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">粵語新聞</title>
-  <title lang="eng">TDM News</title>
-</programme>
-<programme start="20260908210000 +0800" stop="20260908215300 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">林則徐 虎門銷煙以外</title>
-  <title lang="eng">Lin Zexu: Beyond the Humen Opium Destruction</title>
-</programme>
-<programme start="20260908215300 +0800" stop="20260908220000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">好書分享</title>
-  <title lang="eng">Livros Com João Guedes</title>
-</programme>
-<programme start="20260908220000 +0800" stop="20260908225000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">粵語新聞</title>
-  <title lang="eng">TDM News</title>
-</programme>
-<programme start="20260908225000 +0800" stop="20260908230000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">國寶時刻</title>
-  <title lang="eng">Shining Treasures of China</title>
-</programme>
-<programme start="20260908230000 +0800" stop="20260908234000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">葡語新聞</title>
-  <title lang="eng">Telejornal</title>
-</programme>
-<programme start="20260908234000 +0800" stop="20260909000200 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">教煮CHILL 好玩</title>
-  <title lang="eng">Cooking ‧ Chill ‧ Viva</title>
-</programme>
-<programme start="20260909000200 +0800" stop="20260909003500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">澳門規劃</title>
-  <title lang="eng">Macau Compasso</title>
-</programme>
-<programme start="20260909003500 +0800" stop="20260909004500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">鈷彩凝珍</title>
-  <title lang="eng">Cobalt &amp; Clay</title>
-</programme>
-<programme start="20260909004500 +0800" stop="20260909010000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">葡文節目重溫 - 葡式烹飪</title>
-  <title lang="eng">Passado Em Foco</title>
-</programme>
-<programme start="20260909010000 +0800" stop="20260909013000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">美味緣是您</title>
-  <title lang="eng">Taste Of Love</title>
-</programme>
-<programme start="20260909013000 +0800" stop="20260909020000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">英語新聞</title>
-  <title lang="eng">TDM News</title>
-</programme>
-<programme start="20260909020000 +0800" stop="20260909024000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">葡語新聞</title>
-  <title lang="eng">Telejornal</title>
-</programme>
-<programme start="20260909024000 +0800" stop="20260909025000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
-  <title lang="chi">家家有餸煮</title>
-  <title lang="eng">Home Cooking</title>
+<programme start="20260916053000 +0800" stop="20260916100000 +0800" channel="e7b5ed2b72ca4713d17cc4ecb77eb865">
+  <title lang="chi">收台</title>
+  <title lang="eng">Close</title>
 </programme>
 <programme start="20260909025000 +0800" stop="20260909033000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
   <title lang="chi">財經雜誌 - 對話灣區</title>
@@ -3509,7 +3289,7 @@
   <title lang="chi">直播第34屆澳門國際煙花比賽匯演 2026</title>
   <title lang="eng">34th Macao International Fireworks Display Contest (Live)</title>
 </programme>
-<programme start="20260912220000 +0800" stop="20260912225000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+<programme start="20260912220000 +0800" stop="20260912225500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
   <title lang="chi">粵語新聞</title>
   <title lang="eng">TDM News</title>
 </programme>
@@ -3705,7 +3485,7 @@
   <title lang="chi">全攻亞運</title>
   <title lang="eng">All In Asian Games</title>
 </programme>
-<programme start="20260913220000 +0800" stop="20260913225000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+<programme start="20260913220000 +0800" stop="20260913225500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
   <title lang="chi">粵語新聞</title>
   <title lang="eng">TDM News</title>
 </programme>
@@ -3921,77 +3701,193 @@
   <title lang="chi">趨記茶餐廳</title>
   <title lang="eng">Macau Chat Room</title>
 </programme>
-<programme start="20260908000100 +0800" stop="20260908100000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">收台</title>
-  <title lang="eng">Close</title>
+<programme start="20260915000200 +0800" stop="20260915010000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">中國擁抱莫拉貝薩群島</title>
+  <title lang="eng">O Abraço da China às ilhas da Morabeza</title>
 </programme>
-<programme start="20260908100000 +0800" stop="20260908130200 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">好劇連場: 日光之城</title>
-  <title lang="eng">City of Sun Rise</title>
+<programme start="20260915010000 +0800" stop="20260915013000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">澳門老店—傳承</title>
+  <title lang="eng">Macau Old Store—Inheritance</title>
 </programme>
-<programme start="20260908130200 +0800" stop="20260908160600 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">好劇連場: 一起深呼吸</title>
-  <title lang="eng">Breath of Desting</title>
+<programme start="20260915013000 +0800" stop="20260915020000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">英語新聞</title>
+  <title lang="eng">TDM News</title>
 </programme>
-<programme start="20260908160600 +0800" stop="20260908172900 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">越戰越勇</title>
-  <title lang="eng">Sing For Your Dream</title>
+<programme start="20260915020000 +0800" stop="20260915025000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">葡語新聞</title>
+  <title lang="eng">Telejornal</title>
 </programme>
-<programme start="20260908172900 +0800" stop="20260908173000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">重點節目宣傳片</title>
-  <title lang="eng">Promotion</title>
-</programme>
-<programme start="20260908173000 +0800" stop="20260908175300 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+<programme start="20260915025000 +0800" stop="20260915031000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
   <title lang="chi">澳門早晨精華錄</title>
   <title lang="eng">Repeat of Good Morning Macau</title>
 </programme>
-<programme start="20260908175300 +0800" stop="20260908175500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">TDM 新視點</title>
-  <title lang="eng">TDM Focus</title>
+<programme start="20260915031000 +0800" stop="20260915034000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">“葡”出個味蕾</title>
+  <title lang="eng">Saboroso</title>
 </programme>
-<programme start="20260908175500 +0800" stop="20260908182500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">萌賽可第二季</title>
-  <title lang="eng">Space Protectors (S2)</title>
+<programme start="20260915034000 +0800" stop="20260915041000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">石韻風華(第二季)</title>
+  <title lang="eng">Shijiazhuang Intangible Cultural Heritage (S2)</title>
 </programme>
-<programme start="20260908182500 +0800" stop="20260908200000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">今日宜加油</title>
-  <title lang="eng">Never Give Up</title>
+<programme start="20260915041000 +0800" stop="20260915043300 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">人與自然: 共存之道</title>
+  <title lang="eng">A Natureza Dos Homens E Dos Animais</title>
 </programme>
-<programme start="20260908200000 +0800" stop="20260908210000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">中華文明地標</title>
-  <title lang="eng">Chinese Civilization</title>
+<programme start="20260915043300 +0800" stop="20260915044000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">好書分享</title>
+  <title lang="eng">Livros Com João Guedes</title>
 </programme>
-<programme start="20260908210000 +0800" stop="20260908212500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">趨記茶餐廳</title>
-  <title lang="eng">Macau Chat Room</title>
+<programme start="20260915044000 +0800" stop="20260915053000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">葡語新聞</title>
+  <title lang="eng">Telejornal</title>
 </programme>
-<programme start="20260908212500 +0800" stop="20260908213500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">爸爸的木匠小屋第三季</title>
-  <title lang="eng">Papa&apos;s Carpentry House (S3)</title>
+<programme start="20260915053000 +0800" stop="20260915062300 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">林則徐 虎門銷煙以外</title>
+  <title lang="eng">Lin Zexu: Beyond the Humen Opium Destruction</title>
 </programme>
-<programme start="20260908213500 +0800" stop="20260908230500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">今日宜加油</title>
-  <title lang="eng">Never Give Up</title>
+<programme start="20260915062300 +0800" stop="20260915063000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">家家有餸煮</title>
+  <title lang="eng">Home Cooking</title>
 </programme>
-<programme start="20260908230500 +0800" stop="20260908231000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">世界文化遺產短片</title>
-  <title lang="eng">World Heritage Sites</title>
+<programme start="20260915063000 +0800" stop="20260915070000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">澳門歷史人物</title>
+  <title lang="eng">Aqui Há História</title>
 </programme>
-<programme start="20260908231000 +0800" stop="20260908235800 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">傳奇之星歷險記</title>
-  <title lang="eng">Adventure All Stars : Legends</title>
+<programme start="20260915070000 +0800" stop="20260915073000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">馬交遊﹕澳門Chill 好玩</title>
+  <title lang="eng">Macau. Chill. Viva.</title>
 </programme>
-<programme start="20260908235800 +0800" stop="20260909004000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">古蜀瑰寶</title>
-  <title lang="eng">Treasures of Ancient Shu</title>
+<programme start="20260915073000 +0800" stop="20260915080000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">英語新聞</title>
+  <title lang="eng">TDM News</title>
 </programme>
-<programme start="20260909004000 +0800" stop="20260909024500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">直播2026/2027歐洲冠軍聯賽: 布魯日 對  阿士東維拉</title>
-  <title lang="eng">UEFA Champions League 2026/2027 : Club Brugge  vs  Aston Villa (Live)</title>
+<programme start="20260915080000 +0800" stop="20260915083000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">“葡”出個味蕾</title>
+  <title lang="eng">Saboroso</title>
 </programme>
-<programme start="20260909024500 +0800" stop="20260909025500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
-  <title lang="chi">海派百工2</title>
-  <title lang="eng">Shanghai Craftsmanship</title>
+<programme start="20260915083000 +0800" stop="20260915085200 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">教煮CHILL 好玩</title>
+  <title lang="eng">Cooking ‧ Chill ‧ Viva</title>
+</programme>
+<programme start="20260915085200 +0800" stop="20260915092000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">灣區全媒睇</title>
+  <title lang="eng">All About the Greater Bay Area</title>
+</programme>
+<programme start="20260915092000 +0800" stop="20260915095000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">風火台</title>
+  <title lang="eng">Wind and Fire</title>
+</programme>
+<programme start="20260915095000 +0800" stop="20260915100000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">好書分享</title>
+  <title lang="eng">Livros Com João Guedes</title>
+</programme>
+<programme start="20260915100000 +0800" stop="20260915103000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">粵語新聞</title>
+  <title lang="eng">TDM Morning News</title>
+</programme>
+<programme start="20260915103000 +0800" stop="20260915110000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">石韻風華(第二季)</title>
+  <title lang="eng">Shijiazhuang Intangible Cultural Heritage (S2)</title>
+</programme>
+<programme start="20260915110000 +0800" stop="20260915112500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">人與自然: 共存之道</title>
+  <title lang="eng">A Natureza Dos Homens E Dos Animais</title>
+</programme>
+<programme start="20260915112500 +0800" stop="20260915122000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">林則徐 虎門銷煙以外</title>
+  <title lang="eng">Lin Zexu: Beyond the Humen Opium Destruction</title>
+</programme>
+<programme start="20260915122000 +0800" stop="20260915125000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">風火台</title>
+  <title lang="eng">Wind and Fire</title>
+</programme>
+<programme start="20260915125000 +0800" stop="20260915130000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">鈷彩凝珍</title>
+  <title lang="eng">Cobalt &amp; Clay</title>
+</programme>
+<programme start="20260915130000 +0800" stop="20260915133000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">馬交遊﹕澳門Chill 好玩</title>
+  <title lang="eng">Macau. Chill. Viva.</title>
+</programme>
+<programme start="20260915133000 +0800" stop="20260915135300 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">教煮CHILL 好玩</title>
+  <title lang="eng">Cooking ‧ Chill ‧ Viva</title>
+</programme>
+<programme start="20260915135300 +0800" stop="20260915140000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">家家有餸煮</title>
+  <title lang="eng">Home Cooking</title>
+</programme>
+<programme start="20260915140000 +0800" stop="20260915143000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">粵語新聞</title>
+  <title lang="eng">TDM Morning News</title>
+</programme>
+<programme start="20260915143000 +0800" stop="20260915145500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">澳門老店—傳承</title>
+  <title lang="eng">Macau Old Store—Inheritance</title>
+</programme>
+<programme start="20260915145500 +0800" stop="20260915154000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">葡語新聞</title>
+  <title lang="eng">Telejornal</title>
+</programme>
+<programme start="20260915154000 +0800" stop="20260915155500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">錫蘭王子東行記</title>
+  <title lang="eng">The Prince of  Ceylon&apos;s Journey To The East    </title>
+</programme>
+<programme start="20260915155500 +0800" stop="20260915162500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">石韻風華(第二季)</title>
+  <title lang="eng">Shijiazhuang Intangible Cultural Heritage (S2)</title>
+</programme>
+<programme start="20260915162500 +0800" stop="20260915165000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">人與自然: 共存之道</title>
+  <title lang="eng">A Natureza Dos Homens E Dos Animais</title>
+</programme>
+<programme start="20260915165000 +0800" stop="20260915174500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">林則徐 虎門銷煙以外</title>
+  <title lang="eng">Lin Zexu: Beyond the Humen Opium Destruction</title>
+</programme>
+<programme start="20260915174500 +0800" stop="20260915181000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">“葡”出個味蕾</title>
+  <title lang="eng">Saboroso</title>
+</programme>
+<programme start="20260915181000 +0800" stop="20260915184000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">馬交遊﹕澳門Chill 好玩</title>
+  <title lang="eng">Macau. Chill. Viva.</title>
+</programme>
+<programme start="20260915184000 +0800" stop="20260915190000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">澳門早晨精華錄</title>
+  <title lang="eng">Repeat of Good Morning Macau</title>
+</programme>
+<programme start="20260915190000 +0800" stop="20260915192500 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">教煮CHILL 好玩</title>
+  <title lang="eng">Cooking ‧ Chill ‧ Viva</title>
+</programme>
+<programme start="20260915192500 +0800" stop="20260915200000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">風火台</title>
+  <title lang="eng">Wind and Fire</title>
+</programme>
+<programme start="20260915200000 +0800" stop="20260915210000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">粵語新聞</title>
+  <title lang="eng">TDM News</title>
+</programme>
+<programme start="20260915210000 +0800" stop="20260915215400 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">林則徐 虎門銷煙以外</title>
+  <title lang="eng">Lin Zexu: Beyond the Humen Opium Destruction</title>
+</programme>
+<programme start="20260915215400 +0800" stop="20260915220000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">好書分享</title>
+  <title lang="eng">Livros Com João Guedes</title>
+</programme>
+<programme start="20260915220000 +0800" stop="20260915225000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">粵語新聞</title>
+  <title lang="eng">TDM News</title>
+</programme>
+<programme start="20260915225000 +0800" stop="20260915234000 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">葡語新聞</title>
+  <title lang="eng">Telejornal</title>
+</programme>
+<programme start="20260915234000 +0800" stop="20260916000200 +0800" channel="26ca8bca7ad248870024f6d5f797b6e3">
+  <title lang="chi">教煮CHILL 好玩</title>
+  <title lang="eng">Cooking ‧ Chill ‧ Viva</title>
 </programme>
 <programme start="20260909025500 +0800" stop="20260909050000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">直播2026/2027歐洲冠軍聯賽: 皇家馬德里  對  國際米蘭</title>
@@ -4385,15 +4281,15 @@
   <title lang="chi">收台</title>
   <title lang="eng">Close</title>
 </programme>
-<programme start="20260914100000 +0800" stop="20260914130400 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+<programme start="20260914100000 +0800" stop="20260914130500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">好劇連場: 被遺忘的時光</title>
   <title lang="eng">Time Seems to Have Forgotten</title>
 </programme>
-<programme start="20260914130400 +0800" stop="20260914160900 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+<programme start="20260914130500 +0800" stop="20260914161000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">好劇連場: 一起深呼吸</title>
   <title lang="eng">Breath of Desting</title>
 </programme>
-<programme start="20260914160900 +0800" stop="20260914172900 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+<programme start="20260914161000 +0800" stop="20260914172900 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">星光大道</title>
   <title lang="eng">Xing Guang Da Dao</title>
 </programme>
@@ -4409,17 +4305,25 @@
   <title lang="chi">TDM 新視點</title>
   <title lang="eng">TDM Focus</title>
 </programme>
-<programme start="20260914175500 +0800" stop="20260914182500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+<programme start="20260914175500 +0800" stop="20260914181000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">下姜村的數字未來夢 </title>
   <title lang="eng">Xiajiang Village&apos;s Dream of Digital Future</title>
+</programme>
+<programme start="20260914181000 +0800" stop="20260914182500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">青春旁聽生</title>
+  <title lang="eng">Youth Auditors</title>
 </programme>
 <programme start="20260914182500 +0800" stop="20260914200000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">駐站</title>
   <title lang="eng">Railway Police</title>
 </programme>
-<programme start="20260914200000 +0800" stop="20260914210000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+<programme start="20260914200000 +0800" stop="20260914205000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">大國建造 第一季</title>
   <title lang="eng">Remarkable Construction</title>
+</programme>
+<programme start="20260914205000 +0800" stop="20260914210000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">海派百工2</title>
+  <title lang="eng">Shanghai Craftsmanship</title>
 </programme>
 <programme start="20260914210000 +0800" stop="20260914213500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">去桃花盛開的地方2</title>
@@ -4437,181 +4341,77 @@
   <title lang="chi">收台</title>
   <title lang="eng">Close</title>
 </programme>
-<programme start="20260908012700 +0800" stop="20260908030000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">我要逆風去</title>
-  <title lang="eng">Rising with the Wind</title>
+<programme start="20260915100000 +0800" stop="20260915130600 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">好劇連場: 被遺忘的時光</title>
+  <title lang="eng">Time Seems to Have Forgotten</title>
 </programme>
-<programme start="20260908030000 +0800" stop="20260908032500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">錄播普通話新聞</title>
-  <title lang="eng">Pu-Tong-Hua News</title>
+<programme start="20260915130600 +0800" stop="20260915161100 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">好劇連場: 一起深呼吸</title>
+  <title lang="eng">Breath of Desting</title>
 </programme>
-<programme start="20260908032500 +0800" stop="20260908040000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">錄播晚間新聞</title>
-  <title lang="eng">TDM Late News</title>
+<programme start="20260915161100 +0800" stop="20260915172900 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">越戰越勇</title>
+  <title lang="eng">Sing For Your Dream</title>
 </programme>
-<programme start="20260908040000 +0800" stop="20260908042500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">家家有本事</title>
-  <title lang="eng">Family Affairs</title>
+<programme start="20260915172900 +0800" stop="20260915173000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">重點節目宣傳片</title>
+  <title lang="eng">Promotion</title>
 </programme>
-<programme start="20260908042500 +0800" stop="20260908044700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+<programme start="20260915173000 +0800" stop="20260915175300 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">澳門早晨精華錄</title>
   <title lang="eng">Repeat of Good Morning Macau</title>
 </programme>
-<programme start="20260908044700 +0800" stop="20260908051700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">重播風火台</title>
-  <title lang="eng">Wind and Fire (Repeat)</title>
-</programme>
-<programme start="20260908051700 +0800" stop="20260908052500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">“你問我答”粵澳法律直播間 </title>
-  <title lang="eng">&quot;You Ask, We Answer&quot; Guangdong-Macao Laws Livestream</title>
-</programme>
-<programme start="20260908052500 +0800" stop="20260908070000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">前途無量</title>
-  <title lang="eng">Bank on Me</title>
-</programme>
-<programme start="20260908070000 +0800" stop="20260908080000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">早晨新聞</title>
-  <title lang="eng">TDM Morning News</title>
-</programme>
-<programme start="20260908080000 +0800" stop="20260908090000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">澳門早晨</title>
-  <title lang="eng">Good Morning Macau</title>
-</programme>
-<programme start="20260908090000 +0800" stop="20260908090200 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+<programme start="20260915175300 +0800" stop="20260915175500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
   <title lang="chi">TDM 新視點</title>
   <title lang="eng">TDM Focus</title>
 </programme>
-<programme start="20260908090200 +0800" stop="20260908092500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">家家有本事</title>
-  <title lang="eng">Family Affairs</title>
+<programme start="20260915175500 +0800" stop="20260915182500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">冰雪守護者第1季</title>
+  <title lang="eng">The Tales of Wonder Keepers</title>
 </programme>
-<programme start="20260908092500 +0800" stop="20260908100000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">廚房裡的桃花源</title>
-  <title lang="eng">Find Me Beyond the Kitchen</title>
+<programme start="20260915182500 +0800" stop="20260915200000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">今日宜加油</title>
+  <title lang="eng">Never Give Up</title>
 </programme>
-<programme start="20260908100000 +0800" stop="20260908103000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">新聞報道</title>
-  <title lang="eng">News Summary</title>
+<programme start="20260915200000 +0800" stop="20260915205000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">改變世界的科技</title>
+  <title lang="eng">Tech to Save The World</title>
 </programme>
-<programme start="20260908103000 +0800" stop="20260908110000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">重播風火台</title>
-  <title lang="eng">Wind and Fire (Repeat)</title>
+<programme start="20260915205000 +0800" stop="20260915210000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">海派百工2</title>
+  <title lang="eng">Shanghai Craftsmanship</title>
 </programme>
-<programme start="20260908110000 +0800" stop="20260908111000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">“你問我答”粵澳法律直播間 </title>
-  <title lang="eng">&quot;You Ask, We Answer&quot; Guangdong-Macao Laws Livestream</title>
+<programme start="20260915210000 +0800" stop="20260915212500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">趨記茶餐廳</title>
+  <title lang="eng">Macau Chat Room</title>
 </programme>
-<programme start="20260908111000 +0800" stop="20260908111500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">TDM 新視點</title>
-  <title lang="eng">TDM Focus</title>
+<programme start="20260915212500 +0800" stop="20260915213500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">世界文化遺產短片</title>
+  <title lang="eng">World Heritage Sites</title>
 </programme>
-<programme start="20260908111500 +0800" stop="20260908125000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">我要逆風去</title>
-  <title lang="eng">Rising with the Wind</title>
+<programme start="20260915213500 +0800" stop="20260915231000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">今日宜加油</title>
+  <title lang="eng">Never Give Up</title>
 </programme>
-<programme start="20260908125000 +0800" stop="20260908131700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">如何找到圖靈</title>
-  <title lang="eng">Turin and Human Civilization</title>
+<programme start="20260915231000 +0800" stop="20260916000100 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">台灣‧1945</title>
+  <title lang="eng">Taiwan 1945</title>
 </programme>
-<programme start="20260908131700 +0800" stop="20260908132400 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">宇宙更強</title>
-  <title lang="eng">Universal Strongholds</title>
+<programme start="20260916000100 +0800" stop="20260916015900 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">電影: 英雄本色 III  夕陽之歌</title>
+  <title lang="eng">Movie: A Better Tomorrow III</title>
 </programme>
-<programme start="20260908132400 +0800" stop="20260908133000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">午間天氣報告</title>
-  <title lang="eng">Noon Weather Report</title>
+<programme start="20260916015900 +0800" stop="20260916021000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">故鄉與遠方</title>
+  <title lang="eng">Homeland and Faraway</title>
 </programme>
-<programme start="20260908133000 +0800" stop="20260908140000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">午間新聞</title>
-  <title lang="eng">Noon News</title>
+<programme start="20260916021000 +0800" stop="20260916041500 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">直播亞洲冠軍精英聯賽: 希拉爾  對  艾加拉法</title>
+  <title lang="eng">AFC Champions League Elite 2026/27 : Al-Hilal  vs  Al-Gharafa (Live)</title>
 </programme>
-<programme start="20260908140000 +0800" stop="20260908150000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">每日財經</title>
-  <title lang="eng">Financial Daily</title>
-</programme>
-<programme start="20260908150000 +0800" stop="20260908153000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">重播風火台</title>
-  <title lang="eng">Wind and Fire (Repeat)</title>
-</programme>
-<programme start="20260908153000 +0800" stop="20260908154000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">“你問我答”粵澳法律直播間 </title>
-  <title lang="eng">&quot;You Ask, We Answer&quot; Guangdong-Macao Laws Livestream</title>
-</programme>
-<programme start="20260908154000 +0800" stop="20260908160000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">澳門早晨精華錄</title>
-  <title lang="eng">Repeat of Good Morning Macau</title>
-</programme>
-<programme start="20260908160000 +0800" stop="20260908163000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">兒童節目︰開心超人聯盟 勇敢之城 1  棋獸傳奇 (第十九季)</title>
-  <title lang="eng">Children Programme: The Brave City  : Legend of Mystical Beasts</title>
-</programme>
-<programme start="20260908163000 +0800" stop="20260908170000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">兒童節目︰喵能戰士 第1季</title>
-  <title lang="eng">Children Programme: Cat Energy Warriors S1</title>
-</programme>
-<programme start="20260908170000 +0800" stop="20260908180000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">兒童節目︰太空鼠一家</title>
-  <title lang="eng">Children Programme: Clangers</title>
-</programme>
-<programme start="20260908180000 +0800" stop="20260908184300 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">重播動感教菁</title>
-  <title lang="eng">Educação E Juventude Dinãmica (Repeat)</title>
-</programme>
-<programme start="20260908184300 +0800" stop="20260908185000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">宇宙更強</title>
-  <title lang="eng">Universal Strongholds</title>
-</programme>
-<programme start="20260908185000 +0800" stop="20260908190000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">新聞提要</title>
-  <title lang="eng">News   Summary</title>
-</programme>
-<programme start="20260908190000 +0800" stop="20260908195500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">澳視新聞</title>
-  <title lang="eng">TDM News</title>
-</programme>
-<programme start="20260908195500 +0800" stop="20260908200000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">天氣報告</title>
-  <title lang="eng">Weather Report</title>
-</programme>
-<programme start="20260908200000 +0800" stop="20260908213300 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">我要逆風去</title>
-  <title lang="eng">Rising with the Wind</title>
-</programme>
-<programme start="20260908213300 +0800" stop="20260908220000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">澳門人澳門事</title>
-  <title lang="eng">Our People, Our Life</title>
-</programme>
-<programme start="20260908220000 +0800" stop="20260908223000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">普通話新聞</title>
-  <title lang="eng">Pu-Tong-Hua News</title>
-</programme>
-<programme start="20260908223000 +0800" stop="20260908231500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">十點半澳視縱橫︰競健群英 2026</title>
-  <title lang="eng">22:30 TDM Info - Express: Macau Sports 2026</title>
-</programme>
-<programme start="20260908231500 +0800" stop="20260908235000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">晚間新聞</title>
-  <title lang="eng">TDM Late News</title>
-</programme>
-<programme start="20260908235000 +0800" stop="20260909000100 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">體育新聞</title>
-  <title lang="eng">Sport News</title>
-</programme>
-<programme start="20260909000100 +0800" stop="20260909002700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">灣區全媒睇</title>
-  <title lang="eng">All About the Greater Bay Area</title>
-</programme>
-<programme start="20260909002700 +0800" stop="20260909004900 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">澳門人澳門事</title>
-  <title lang="eng">Our People, Our Life</title>
-</programme>
-<programme start="20260909004900 +0800" stop="20260909012700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">重播競健群英 2026</title>
-  <title lang="eng">Macau Sports 2026 (Repeat)</title>
-</programme>
-<programme start="20260909012700 +0800" stop="20260909030000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">我要逆風去</title>
-  <title lang="eng">Rising with the Wind</title>
+<programme start="20260916041500 +0800" stop="20260916100000 +0800" channel="72f9fd10eddcce0d0ce9db19af5278a7">
+  <title lang="chi">收台</title>
+  <title lang="eng">Close</title>
 </programme>
 <programme start="20260909030000 +0800" stop="20260909032500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
   <title lang="chi">錄播普通話新聞</title>
@@ -4657,17 +4457,25 @@
   <title lang="chi">《葡角漫遊》之佛得角</title>
   <title lang="eng">Pelos Cantos da Lusofonia - Cabo Verde</title>
 </programme>
-<programme start="20260909094500 +0800" stop="20260909113000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+<programme start="20260909094500 +0800" stop="20260909120000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
   <title lang="chi">新聞報道</title>
   <title lang="eng">News Summary</title>
 </programme>
-<programme start="20260909113000 +0800" stop="20260909131000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
-  <title lang="chi">我要逆風去</title>
-  <title lang="eng">Rising with the Wind</title>
+<programme start="20260909120000 +0800" stop="20260909122800 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">AI 劇場 藥香情緣</title>
+  <title lang="eng">Herbal Legacy</title>
 </programme>
-<programme start="20260909131000 +0800" stop="20260909131700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+<programme start="20260909122800 +0800" stop="20260909124500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">AI 劇場 解夢人</title>
+  <title lang="eng">Dream Analyst</title>
+</programme>
+<programme start="20260909124500 +0800" stop="20260909125000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
   <title lang="chi">TDM 新視點</title>
   <title lang="eng">TDM Focus</title>
+</programme>
+<programme start="20260909125000 +0800" stop="20260909131700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">如何找到圖靈</title>
+  <title lang="eng">Turin and Human Civilization</title>
 </programme>
 <programme start="20260909131700 +0800" stop="20260909132400 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
   <title lang="chi">營商創新研究所</title>
@@ -5689,7 +5497,175 @@
   <title lang="chi">“你問我答”粵澳法律直播間 </title>
   <title lang="eng">&quot;You Ask, We Answer&quot; Guangdong-Macao Laws Livestream</title>
 </programme>
-<programme start="20260915052500 +0800" stop="20260915065700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+<programme start="20260915052500 +0800" stop="20260915070000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">耀眼的你啊</title>
+  <title lang="eng">Viva Femina</title>
+</programme>
+<programme start="20260915070000 +0800" stop="20260915080000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">早晨新聞</title>
+  <title lang="eng">TDM Morning News</title>
+</programme>
+<programme start="20260915080000 +0800" stop="20260915090000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">澳門早晨</title>
+  <title lang="eng">Good Morning Macau</title>
+</programme>
+<programme start="20260915090000 +0800" stop="20260915090200 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">TDM 新視點</title>
+  <title lang="eng">TDM Focus</title>
+</programme>
+<programme start="20260915090200 +0800" stop="20260915092500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">家家有本事</title>
+  <title lang="eng">Family Affairs</title>
+</programme>
+<programme start="20260915092500 +0800" stop="20260915100000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">海闊潮生</title>
+  <title lang="eng">From Quality to Premium</title>
+</programme>
+<programme start="20260915100000 +0800" stop="20260915103000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">新聞報道</title>
+  <title lang="eng">News Summary</title>
+</programme>
+<programme start="20260915103000 +0800" stop="20260915110000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">重播風火台</title>
+  <title lang="eng">Wind and Fire (Repeat)</title>
+</programme>
+<programme start="20260915110000 +0800" stop="20260915111000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">“你問我答”粵澳法律直播間 </title>
+  <title lang="eng">&quot;You Ask, We Answer&quot; Guangdong-Macao Laws Livestream</title>
+</programme>
+<programme start="20260915111000 +0800" stop="20260915111500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">TDM 新視點</title>
+  <title lang="eng">TDM Focus</title>
+</programme>
+<programme start="20260915111500 +0800" stop="20260915125000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">我要逆風去</title>
+  <title lang="eng">Rising with the Wind</title>
+</programme>
+<programme start="20260915125000 +0800" stop="20260915131700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">如何找到圖靈</title>
+  <title lang="eng">Turin and Human Civilization</title>
+</programme>
+<programme start="20260915131700 +0800" stop="20260915132400 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">Chat下橫琴生活II</title>
+  <title lang="eng">Chatting about Life in Hengqin II</title>
+</programme>
+<programme start="20260915132400 +0800" stop="20260915133000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">午間天氣報告</title>
+  <title lang="eng">Noon Weather Report</title>
+</programme>
+<programme start="20260915133000 +0800" stop="20260915140000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">午間新聞</title>
+  <title lang="eng">Noon News</title>
+</programme>
+<programme start="20260915140000 +0800" stop="20260915150000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">每日財經</title>
+  <title lang="eng">Financial Daily</title>
+</programme>
+<programme start="20260915150000 +0800" stop="20260915153000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">重播風火台</title>
+  <title lang="eng">Wind and Fire (Repeat)</title>
+</programme>
+<programme start="20260915153000 +0800" stop="20260915154000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">“你問我答”粵澳法律直播間 </title>
+  <title lang="eng">&quot;You Ask, We Answer&quot; Guangdong-Macao Laws Livestream</title>
+</programme>
+<programme start="20260915154000 +0800" stop="20260915160000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">澳門早晨精華錄</title>
+  <title lang="eng">Repeat of Good Morning Macau</title>
+</programme>
+<programme start="20260915160000 +0800" stop="20260915163000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">兒童節目︰開心超人聯盟 勇敢之城 2  超人計劃 (第十九季)</title>
+  <title lang="eng">Children Programme: Happy Superman Union (S19)</title>
+</programme>
+<programme start="20260915163000 +0800" stop="20260915170000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">兒童節目︰如福侍衞隊 第1季</title>
+  <title lang="eng">Children Programme: The Roofus S1</title>
+</programme>
+<programme start="20260915170000 +0800" stop="20260915180000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">兒童節目︰家有灶君</title>
+  <title lang="eng">Children Programme: Kitchen God</title>
+</programme>
+<programme start="20260915180000 +0800" stop="20260915184300 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">重播動感教菁</title>
+  <title lang="eng">Educação E Juventude Dinãmica (Repeat)</title>
+</programme>
+<programme start="20260915184300 +0800" stop="20260915185000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">Chat下橫琴生活II</title>
+  <title lang="eng">Chatting about Life in Hengqin II</title>
+</programme>
+<programme start="20260915185000 +0800" stop="20260915190000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">新聞提要</title>
+  <title lang="eng">News   Summary</title>
+</programme>
+<programme start="20260915190000 +0800" stop="20260915195500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">澳視新聞</title>
+  <title lang="eng">TDM News</title>
+</programme>
+<programme start="20260915195500 +0800" stop="20260915200000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">天氣報告</title>
+  <title lang="eng">Weather Report</title>
+</programme>
+<programme start="20260915200000 +0800" stop="20260915213300 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">我要逆風去</title>
+  <title lang="eng">Rising with the Wind</title>
+</programme>
+<programme start="20260915213300 +0800" stop="20260915220000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">澳門人澳門事</title>
+  <title lang="eng">Our People, Our Life</title>
+</programme>
+<programme start="20260915220000 +0800" stop="20260915223000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">普通話新聞</title>
+  <title lang="eng">Pu-Tong-Hua News</title>
+</programme>
+<programme start="20260915223000 +0800" stop="20260915231500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">十點半澳視縱橫︰競健群英 2026</title>
+  <title lang="eng">22:30 TDM Info - Express: Macau Sports 2026</title>
+</programme>
+<programme start="20260915231500 +0800" stop="20260915235000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">晚間新聞</title>
+  <title lang="eng">TDM Late News</title>
+</programme>
+<programme start="20260915235000 +0800" stop="20260916000100 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">體育新聞</title>
+  <title lang="eng">Sport News</title>
+</programme>
+<programme start="20260916000100 +0800" stop="20260916002700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">灣區全媒睇</title>
+  <title lang="eng">All About the Greater Bay Area</title>
+</programme>
+<programme start="20260916002700 +0800" stop="20260916004900 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">澳門人澳門事</title>
+  <title lang="eng">Our People, Our Life</title>
+</programme>
+<programme start="20260916004900 +0800" stop="20260916012700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">重播競健群英 2026</title>
+  <title lang="eng">Macau Sports 2026 (Repeat)</title>
+</programme>
+<programme start="20260916012700 +0800" stop="20260916030000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">我要逆風去</title>
+  <title lang="eng">Rising with the Wind</title>
+</programme>
+<programme start="20260916030000 +0800" stop="20260916032500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">錄播普通話新聞</title>
+  <title lang="eng">Pu-Tong-Hua News</title>
+</programme>
+<programme start="20260916032500 +0800" stop="20260916040000 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">錄播晚間新聞</title>
+  <title lang="eng">TDM Late News</title>
+</programme>
+<programme start="20260916040000 +0800" stop="20260916042500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">澳門人澳門事</title>
+  <title lang="eng">Our People, Our Life</title>
+</programme>
+<programme start="20260916042500 +0800" stop="20260916044700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">澳門早晨精華錄</title>
+  <title lang="eng">Repeat of Good Morning Macau</title>
+</programme>
+<programme start="20260916044700 +0800" stop="20260916052500 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
+  <title lang="chi">重播競健群英 2026</title>
+  <title lang="eng">Macau Sports 2026 (Repeat)</title>
+</programme>
+<programme start="20260916052500 +0800" stop="20260916065700 +0800" channel="9e505ca55ceb45ec916603524c55bf1d">
   <title lang="chi">耀眼的你啊</title>
   <title lang="eng">Viva Femina</title>
 </programme>
